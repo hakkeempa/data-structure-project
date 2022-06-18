@@ -1,9 +1,6 @@
 map resources
 
-https://github.com/opendatakerala/lsg-kerala-data/blob/main/data/kerala_lsg_data.geojson
-
-https://gisresources.com/osm-kerala-community-has-released-a-free-local-body-boundary-map-of-kerala/
-
-http://projects.datameet.org/indian_village_boundaries/kl/
-
-https://www.researchgate.net/post/I-need-the-district-and-village-wise-shape-file-of-Kerala-for-plotting-vulnerability-of-coastal-villagesCan-any-one-provide-me-with-shp-smz-files
+* https://github.com/opendatakerala/lsg-kerala-data/blob/main/data/kerala_lsg_data.geojson
+* https://gisresources.com/osm-kerala-community-has-released-a-free-local-body-boundary-map-of-kerala/
+* http://projects.datameet.org/indian_village_boundaries/kl/
+* https://www.researchgate.net/post/I-need-the-district-and-village-wise-shape-file-of-Kerala-for-plotting-vulnerability-of-coastal-villagesCan-any-one-provide-me-with-shp-smz-files
