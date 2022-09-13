@@ -28,10 +28,10 @@ def genderPlot(df):
             else:
                 key_counts1['female_death'] += 1
 
-    for key,value in key_counts.items():
-        print(key.upper()," : ",value)
-        sizes.append(value)
-        print(sizes)
+    # for key,value in key_counts.items():
+    #     print(key.upper()," : ",value)
+    #     sizes.append(value)
+    #     print(sizes)
 
     fig1, ax1 = plt.subplots()
     plt.title("Recovery Rate by Gender")
@@ -41,14 +41,14 @@ def genderPlot(df):
     plt.tight_layout()
     plt.legend(["Male","Female"])
     plt.savefig('Img/gender-recover.png',dpi=400)
-    plt.show()
+    # plt.show()
 
     sizes = []
 
-    for key,value in key_counts1.items():
-        print(key.upper()," : ",value)
-        sizes.append(value)
-        print(sizes)
+    # for key,value in key_counts1.items():
+    #     print(key.upper()," : ",value)
+    #     sizes.append(value)
+    #     print(sizes)
 
     fig1, ax1 = plt.subplots()
     plt.title("Mortality Rate by Gender")
@@ -58,4 +58,4 @@ def genderPlot(df):
     plt.tight_layout()
     plt.legend(["Male","Female"])
     plt.savefig('Img/gender-death.png',dpi=400)
-    plt.show()
+    # plt.show()

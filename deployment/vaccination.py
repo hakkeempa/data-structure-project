@@ -21,10 +21,10 @@ def vaccinationPlot(df):
             else:
                 key_counts1['Not_Vaccinated_death'] += 1
 
-    for key,value in key_counts.items():
-        print(key.upper()," : ",value)
-        sizes.append(value)
-    print(sizes)
+    # for key,value in key_counts.items():
+    #     print(key.upper()," : ",value)
+    #     sizes.append(value)
+    # print(sizes)
 
     fig1, ax1 = plt.subplots()
     plt.title("Recovery based on Vaccination Status")
@@ -34,14 +34,14 @@ def vaccinationPlot(df):
     plt.tight_layout()
     plt.legend(["Vaccinated","Not_Vaccinated"])
     plt.savefig('Img/vaccinated-recover',dpi=400)
-    plt.show()
+    # plt.show()
 
     sizes = []
 
-    for key,value in key_counts1.items():
-        print(key.upper()," : ",value)
-        sizes.append(value)
-    print(sizes)
+    # for key,value in key_counts1.items():
+    #     print(key.upper()," : ",value)
+    #     sizes.append(value)
+    # print(sizes)
 
     fig1, ax1 = plt.subplots()
     plt.title("Death based on Vaccination Status")
@@ -51,4 +51,4 @@ def vaccinationPlot(df):
     plt.tight_layout()
     plt.legend(["Vaccinated","Not_Vaccinated"])
     plt.savefig('Img/vaccinated-death.png',dpi=400)
-    plt.show()
+    # plt.show()

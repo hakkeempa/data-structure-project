@@ -9,8 +9,18 @@ def mapPlot(df):
     death = folium.FeatureGroup(name="Death")
 
     for index,row in df.iterrows():
+        html=f"""
+            <h3> {row['Name of Patient']}</h3>
+            <p><strong>{row['Gender']}<strong></p>
+            <p>{row['Vaccination Status']}</p>
+            <p>{row['Status']}</p>
+            """
+        iframe = folium.IFrame(html=html, width=300, height=100)
+        popup = folium.Popup(iframe, max_width=2650)
+
+
         tooltip = row['Name of Patient']
-        popup = tooltip + "\n" + row['Gender'] + "\n" + row['Vaccination Status']
+        # popup = tooltip + "\n" + row['Gender'] + "\n" + row['Vaccination Status']
         if row['Status'] == 'Recovered':
             folium.Marker(location=[row['Latitude'],row['Longitude']],popup=popup,tooltip=tooltip,icon=folium.Icon(color="green")).add_to(recovered)
         else:

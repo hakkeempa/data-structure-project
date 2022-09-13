@@ -26,4 +26,4 @@ def barGraph(df):
     plt.grid()
     plt.legend()
     plt.savefig('Img/bar.png',dpi=400)
-    plt.show()
+    # plt.show()
