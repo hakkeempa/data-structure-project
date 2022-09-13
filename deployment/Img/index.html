@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Covid - 19 | Data Visualisation</title>
+    <link rel="stylesheet" href="style.css">
     <!-- CSS only -->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
 </head>
@@ -12,37 +13,40 @@
     <div class="container">
         <div class="row">
 
-
+            <h1 class="mt-4 mb-4 font-weight-bold">Covid 19 - Data Visualiser</h1>
             <section>
-                <div class="col-12 mb-4">
+                <div class="col-12 mb-4">                  
                     <h3 class="mt-4 mb-4">Covid - 19 | Daily Analytics from 01/03/2020 to 25/03/2020</h3>
-                    <img src="bar.png" class="img-fluid" alt="">
+                    <img src="bar.png" class="img-fluid  component-shadow" alt="">
                 </div>
             </section>
             <section class="mt-4 mb-4">
                 <div class="col-12">
+                    <h3 class="mt-4 mb-4">Covid Analytics based on Gender</h3>
                     <div class="col-5 float-start">
-                        <img src="gender-death.png" class="img-fluid" alt="">
+                        <img src="gender-death.png" class="img-fluid  component-shadow" alt="">
                     </div>
                     <div class="col-5 float-end">
-                        <img src="gender-recover.png" class="img-fluid" alt="">
+                        <img src="gender-recover.png" class="img-fluid  component-shadow" alt="">
                     </div>
                 </div>
             </section>
 
-            <section class="mt-4">
+            <section class="mt-4 mb-4">
+                <h3 class="mt-4 mb-4">Covid Analytics based on Vaccination Status</h3>
                 <div class="col-12">
                     <div class="col-5 float-start">
-                        <img src="vaccinated-death.png" class="img-fluid" alt="">
+                        <img src="vaccinated-death.png" class="img-fluid  component-shadow" alt="">
                     </div>
                     <div class="col-5 float-end">
-                        <img src="vaccinated-recover.png" class="img-fluid" alt="">
+                        <img src="vaccinated-recover.png" class="img-fluid  component-shadow" alt="">
                     </div>
                 </div>
             </section>
 
 
-            <section>
+            <section class="mt-4" style="margin-top: 100px !important;">
+                <h3 class="mt-4 mb-4">Map Plotting of Covid Data</h3>
                 <div class="col-12">
                     <iframe src="map-new.html" class="container-fluid" height="600" frameborder="0"></iframe>
                 </div>

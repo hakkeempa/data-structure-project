@@ -3,6 +3,7 @@ from gender import genderPlot
 from vaccination import vaccinationPlot
 from map import mapPlot
 import sys
+import webbrowser as wb
 import pandas as pd
 
 if __name__ == "__main__":
@@ -11,3 +12,4 @@ if __name__ == "__main__":
     genderPlot(df)
     vaccinationPlot(df)
     mapPlot(df)
+    wb.open('D:\data-structure-project\deployment\Img\index.html')
