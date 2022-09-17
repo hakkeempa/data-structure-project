@@ -32,9 +32,9 @@ def vaccinationPlot(df):
             shadow=True, startangle=90)
     ax1.axis('equal')
     plt.tight_layout()
-    plt.legend(["Vaccinated","Not_Vaccinated"])
+    plt.legend(["Vaccinated","Not Vaccinated"])
     plt.savefig('Img/vaccinated-recover',dpi=400)
-    plt.show()
+    # plt.show()
 
     sizes = []
 
@@ -49,6 +49,6 @@ def vaccinationPlot(df):
             shadow=True, startangle=90)
     ax1.axis('equal')
     plt.tight_layout()
-    plt.legend(["Vaccinated","Not_Vaccinated"])
+    plt.legend(["Vaccinated","Not Vaccinated"])
     plt.savefig('Img/vaccinated-death.png',dpi=400)
-    plt.show()
+    # plt.show()

@@ -41,7 +41,7 @@ def genderPlot(df):
     plt.tight_layout()
     plt.legend(["Male","Female"])
     plt.savefig('Img/gender-recover.png',dpi=400)
-    plt.show()
+    # plt.show()
 
     sizes = []
 
@@ -58,4 +58,4 @@ def genderPlot(df):
     plt.tight_layout()
     plt.legend(["Male","Female"])
     plt.savefig('Img/gender-death.png',dpi=400)
-    plt.show()
+    # plt.show()
