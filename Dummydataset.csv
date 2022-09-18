@@ -1,0 +1,1003 @@
+Date,Name of Patient,Age,Gender,Status,Vaccination Status,Latitude,Longitude
+03-01-2020,Patty O’Furniture,25,Male,Death,Not Vaccinated,10.06192763,76.33118862
+03-01-2020,Paddy O’Furniture,45,Female,Death,Vaccinated,10.06015194,76.33240952
+03-01-2020,Olive Yew,2,Male,Death,Not Vaccinated,10.11378343,76.3568048
+03-01-2020,Aida Bugg,72,Male,Recovered,Not Vaccinated,10.01301531,76.36772247
+03-01-2020,Maureen Biologist,86,Male,Recovered,Not Vaccinated,10.0313646,76.37852264
+03-01-2020,Teri Dactyl,66,Male,Recovered,Vaccinated,10.11702234,76.35867042
+03-01-2020,Peg Legge,92,Male,Recovered,Vaccinated,10.07420805,76.4152017
+03-01-2020,Allie Grater,23,Male,Recovered,Vaccinated,10.00907758,76.31086736
+03-01-2020,Liz Erd,63,Male,Recovered,Vaccinated,10.01867801,76.28884693
+03-01-2020,A. Mused,91,Female,Recovered,Not Vaccinated,10.04433654,76.2907855
+03-01-2020,Constance Noring,23,Female,Recovered,Not Vaccinated,10.04908235,76.39529813
+03-01-2020,Lois Di Nominator,86,Male,Recovered,Vaccinated,10.07759715,76.41778316
+03-01-2020,Minnie Van Ryder,91,Male,Recovered,Vaccinated,10.02529111,76.28562996
+03-01-2020,Lynn O’Leeum,58,Male,Recovered,Vaccinated,10.0987766,76.33829173
+03-01-2020,P. Ann O’Recital,78,Male,Recovered,Vaccinated,9.974126417,76.31961932
+03-01-2020,Ray O’Sun,37,Female,Recovered,Not Vaccinated,10.06150749,76.37776792
+03-01-2020,Lee A. Sun,20,Female,Recovered,Vaccinated,10.06072584,76.3298449
+03-01-2020,Ray Sin,33,Male,Recovered,Not Vaccinated,9.97127035,76.31270091
+03-01-2020,Isabelle Ringing,93,Male,Recovered,Vaccinated,10.00956486,76.31442665
+03-01-2020,Eileen Sideways,87,Female,Recovered,Vaccinated,10.07435946,76.30938205
+03-01-2020,Rita Book,67,Male,Recovered,Not Vaccinated,10.00758315,76.31097329
+03-01-2020,Paige Turner,40,Female,Recovered,Vaccinated,10.04362358,76.38479621
+03-01-2020,Rhoda Report,52,Male,Recovered,Vaccinated,10.0810252,76.37068515
+03-01-2020,Augusta Wind,34,Male,Recovered,Vaccinated,10.01507081,76.34239668
+03-01-2020,Chris Anthemum,29,Female,Recovered,Not Vaccinated,10.00747194,76.35821999
+03-01-2020,Anne Teak,61,Male,Recovered,Not Vaccinated,9.967959646,76.30918979
+03-01-2020,U.R. Nice,18,Female,Recovered,Vaccinated,10.0106058,76.36478757
+03-01-2020,Anita Bath,17,Female,Recovered,Vaccinated,10.0342832,76.27656828
+03-01-2020,Harriet Upp,35,Male,Recovered,Not Vaccinated,10.08415054,76.35784761
+03-01-2020,I.M. Tired,49,Male,Recovered,Not Vaccinated,9.965442805,76.31028337
+03-01-2020,I. Missy Ewe,74,Female,Recovered,Not Vaccinated,9.994890718,76.2904379
+03-01-2020,Ivana B. Withew,70,Female,Recovered,Vaccinated,10.07770012,76.41935686
+03-01-2020,Anita Letterback,77,Male,Recovered,Not Vaccinated,10.07552435,76.35556516
+03-01-2020,Hope Furaletter,48,Female,Recovered,Not Vaccinated,10.07416477,76.37132916
+03-01-2020,B. Homesoon,39,Male,Recovered,Not Vaccinated,10.06058045,76.3458006
+03-01-2020,Bea Mine,59,Male,Recovered,Vaccinated,9.99639269,76.30040455
+03-01-2020,Bess Twishes,28,Female,Recovered,Vaccinated,10.07928214,76.40291676
+03-01-2020,C. Yasoon,95,Female,Recovered,Vaccinated,10.04701753,76.32030247
+03-01-2020,Audie Yose,20,Male,Recovered,Not Vaccinated,9.987537248,76.32670991
+03-01-2020,Dee End,81,Female,Recovered,Vaccinated,10.01362556,76.30339283
+03-01-2020,Amanda Hug,56,Male,Recovered,Not Vaccinated,10.01511208,76.36330623
+03-01-2020,Ben Dover,72,Female,Recovered,Not Vaccinated,10.06296067,76.31008242
+03-01-2020,Eileen Dover,78,Male,Recovered,Vaccinated,10.06507304,76.33157718
+03-01-2020,Willie Makit,8,Male,Recovered,Vaccinated,10.01063533,76.35337234
+03-01-2020,Willie Findit,95,Male,Recovered,Not Vaccinated,10.07270295,76.37110975
+03-01-2020,Skye Blue,88,Female,Recovered,Vaccinated,10.01971161,76.31210279
+03-01-2020,Staum Clowd,91,Male,Recovered,Not Vaccinated,10.07588637,76.34384636
+03-01-2020,Addie Minstra,83,Male,Recovered,Vaccinated,10.08396682,76.33011781
+03-01-2020,Anne Ortha,34,Female,Recovered,Vaccinated,10.04481461,76.3044701
+03-01-2020,Dave Allippa,49,Female,Recovered,Not Vaccinated,10.10150307,76.369355
+03-01-2020,Dee Zynah,90,Male,Recovered,Not Vaccinated,10.02958889,76.27880202
+03-01-2020,Hugh Mannerizorsa,89,Male,Recovered,Vaccinated,10.06636348,76.39157385
+03-01-2020,Loco Lyzayta,34,Male,Recovered,Vaccinated,10.04460435,76.32009967
+03-01-2020,Manny Jah,85,Male,Recovered,Vaccinated,10.06820255,76.31872251
+03-01-2020,Mark Ateer,77,Female,Recovered,Vaccinated,10.04387744,76.29731067
+03-01-2020,Reeve Ewer,46,Female,Recovered,Vaccinated,10.06925826,76.36932644
+03-01-2020,Tex Ryta,53,Male,Recovered,Not Vaccinated,10.02614508,76.33009281
+03-01-2020,Theresa Green,80,Female,Recovered,Not Vaccinated,10.07477288,76.34392252
+03-01-2020,Barry Kade,11,Male,Recovered,Vaccinated,10.01138196,76.32231364
+03-01-2020,Stan Dupp,90,Male,Recovered,Not Vaccinated,10.01517168,76.34127063
+03-01-2020,Neil Down,43,Male,Recovered,Not Vaccinated,10.09143153,76.36032424
+03-01-2020,Con Trariweis,57,Male,Recovered,Vaccinated,10.01464642,76.30958712
+03-01-2020,Don Messwidme,14,Male,Recovered,Vaccinated,10.03250656,76.37393152
+03-01-2020,Al Annon,68,Male,Recovered,Not Vaccinated,9.974014514,76.315389
+03-01-2020,Anna Domino,42,Female,Recovered,Not Vaccinated,10.0122947,76.33164724
+03-01-2020,Clyde Stale,16,Female,Recovered,Not Vaccinated,10.02176218,76.31138089
+03-02-2020,Anna Logwatch,43,Female,Recovered,Not Vaccinated,10.01032116,76.35021853
+03-02-2020,Anna Littlical,44,Female,Recovered,Vaccinated,10.09834045,76.36338039
+03-02-2020,Norma Leigh Absent,9,Female,Recovered,Not Vaccinated,10.04692812,76.32077673
+03-02-2020,Sly Meebuggah,29,Male,Recovered,Vaccinated,10.06531238,76.38391067
+03-02-2020,Saul Goodmate,88,Male,Recovered,Vaccinated,10.00908947,76.30048298
+03-02-2020,Faye Clether,54,Male,Recovered,Vaccinated,10.05255024,76.37580196
+03-02-2020,Sarah Moanees,1,Male,Recovered,Not Vaccinated,10.03634759,76.34465845
+03-02-2020,Ty Ayelloribbin,9,Male,Recovered,Not Vaccinated,10.07094954,76.30601996
+03-02-2020,Hugo First,12,Male,Recovered,Vaccinated,10.0466868,76.40543836
+03-02-2020,Percy Vere,23,Male,Recovered,Not Vaccinated,10.07410269,76.35759248
+03-02-2020,Jack Aranda,5,Male,Recovered,Vaccinated,10.05430145,76.32913283
+03-02-2020,Olive Tree,32,Male,Recovered,Vaccinated,9.969328114,76.29945733
+03-02-2020,Fran G. Pani,95,Female,Recovered,Vaccinated,10.04356461,76.35699468
+03-02-2020,John Quil,41,Female,Recovered,Not Vaccinated,10.0734133,76.39787488
+03-02-2020,Ev R. Lasting,40,Female,Recovered,Vaccinated,10.03759601,76.29399105
+03-02-2020,Anne Thurium,31,Male,Recovered,Not Vaccinated,10.0296402,76.38635672
+03-02-2020,Cherry Blossom,2,Male,Recovered,Vaccinated,10.05383459,76.3257503
+03-02-2020,Glad I. Oli,53,Female,Recovered,Vaccinated,10.10705262,76.38356832
+03-02-2020,Ginger Plant,42,Female,Recovered,Vaccinated,10.09664229,76.36505612
+03-02-2020,Del Phineum,20,Male,Recovered,Not Vaccinated,10.04665561,76.38356047
+03-02-2020,Rose Bush,61,Female,Recovered,Not Vaccinated,10.08053156,76.33607234
+03-02-2020,Perry Scope,57,Female,Recovered,Vaccinated,10.04512464,76.33236232
+03-02-2020,Frank N. Stein,4,Female,Recovered,Vaccinated,10.05982115,76.41038484
+03-02-2020,Roy L. Commishun,69,Male,Recovered,Vaccinated,10.04006438,76.3404652
+03-02-2020,Pat Thettick,4,Male,Recovered,Not Vaccinated,10.10309893,76.37671313
+03-02-2020,Percy Kewshun,47,Male,Recovered,Not Vaccinated,10.01217216,76.33153885
+03-02-2020,Rod Knee,88,Female,Recovered,Vaccinated,9.992360087,76.32200625
+03-02-2020,Hank R. Cheef,76,Female,Recovered,Vaccinated,10.02588907,76.3743497
+03-02-2020,Bridget Theriveaquai,13,Female,Recovered,Not Vaccinated,10.07105454,76.38680247
+03-02-2020,Pat N. Toffis,36,Male,Recovered,Not Vaccinated,10.05413232,76.32977347
+03-02-2020,Karen Onnabit,25,Male,Recovered,Vaccinated,9.989743952,76.33220369
+03-02-2020,Col Fays,90,Male,Recovered,Not Vaccinated,10.01906152,76.37457024
+03-02-2020,Fay Daway,72,Female,Recovered,Not Vaccinated,10.08107608,76.40968071
+03-02-2020,Joe V. Awl,42,Male,Recovered,Vaccinated,10.08989139,76.35416182
+03-02-2020,Wes Yabinlatelee,59,Female,Recovered,Vaccinated,10.04835205,76.29928105
+03-02-2020,Colin Sik,69,Male,Recovered,Not Vaccinated,10.0791503,76.3225411
+03-02-2020,Greg Arias,59,Male,Recovered,Not Vaccinated,10.04643437,76.2866085
+03-02-2020,Toi Story,33,Female,Recovered,Vaccinated,10.10062296,76.33623554
+03-02-2020,Gene Eva Convenshun,67,Female,Recovered,Vaccinated,10.01825513,76.32222718
+03-02-2020,Jen Tile,6,Male,Recovered,Vaccinated,10.05051885,76.36129955
+03-02-2020,Simon Sais,18,Male,Recovered,Vaccinated,10.02576656,76.29568442
+03-02-2020,Peter Owt,29,Male,Recovered,Vaccinated,10.07791182,76.40164077
+03-02-2020,Hugh N. Cry,74,Female,Recovered,Vaccinated,10.06671882,76.33122273
+03-02-2020,Lee Nonmi,93,Male,Recovered,Not Vaccinated,10.10212627,76.38542822
+03-02-2020,Lynne Gwafranca,74,Male,Recovered,Vaccinated,10.02455829,76.2927044
+03-02-2020,Art Decco,6,Male,Recovered,Vaccinated,10.04868457,76.35744705
+03-02-2020,Lynne Gwistic,58,Male,Recovered,Vaccinated,10.05844118,76.35558143
+03-02-2020,Polly Ester Undawair,5,Male,Recovered,Not Vaccinated,10.08472932,76.35320567
+03-03-2020,Oscar Nommanee,66,Male,Recovered,Vaccinated,10.10000659,76.36792974
+03-03-2020,Laura Biding,79,Female,Recovered,Not Vaccinated,10.06290533,76.29812971
+03-03-2020,Laura Norda,75,Female,Recovered,Not Vaccinated,10.08458233,76.36607403
+03-03-2020,Des Ignayshun,22,Female,Recovered,Vaccinated,9.999897433,76.33151745
+03-03-2020,Mike Rowe-Soft,86,Female,Recovered,Vaccinated,10.05162852,76.38111223
+03-03-2020,Anne T. Kwayted,11,Female,Recovered,Vaccinated,10.06897078,76.30383983
+03-03-2020,Wayde N. Thabalanz,23,Male,Recovered,Not Vaccinated,10.06833615,76.33352908
+03-03-2020,Dee Mandingboss,16,Male,Recovered,Not Vaccinated,10.0293747,76.28926863
+03-03-2020,Sly Meedentalfloss,50,Male,Recovered,Vaccinated,10.0360573,76.32972628
+03-03-2020,Stanley Knife,14,Male,Recovered,Not Vaccinated,10.02916602,76.34417643
+03-03-2020,Wynn Dozeaplikayshun,92,Female,Recovered,Vaccinated,10.06783698,76.34764358
+03-03-2020,Mal Ajusted,59,Male,Recovered,Vaccinated,9.998446907,76.31601795
+03-03-2020,Penny Black,42,Male,Recovered,Vaccinated,10.02819198,76.2896297
+03-03-2020,Mal Nurrisht,29,Female,Recovered,Vaccinated,10.02807256,76.33238635
+03-03-2020,Polly Pipe,80,Male,Recovered,Not Vaccinated,9.982814747,76.30638403
+03-03-2020,Polly Wannakrakouer,49,Male,Recovered,Not Vaccinated,10.08348229,76.37212893
+03-03-2020,Con Staninterupshuns,36,Male,Recovered,Not Vaccinated,9.993154054,76.34235083
+03-03-2020,Fran Tick,43,Male,Recovered,Not Vaccinated,10.01204962,76.30130061
+03-03-2020,Santi Argo,17,Female,Recovered,Vaccinated,10.01860125,76.29542718
+03-03-2020,Carmen Goh,70,Female,Recovered,Vaccinated,10.0500998,76.34679451
+03-03-2020,Carmen Sayid,12,Male,Recovered,Vaccinated,10.06196988,76.30313837
+03-03-2020,Norma Stitts,50,Female,Recovered,Vaccinated,10.02612263,76.33287097
+03-04-2020,Ester La Vista,42,Female,Recovered,Vaccinated,10.06339078,76.40376988
+03-04-2020,Manuel Labor,31,Female,Recovered,Vaccinated,9.994618386,76.34639473
+03-04-2020,Ivan Itchinos,94,Female,Recovered,Not Vaccinated,10.08213494,76.32475638
+03-04-2020,Ivan Notheridiya,29,Female,Recovered,Not Vaccinated,10.09561784,76.34812965
+03-04-2020,Mustafa Leek,30,Female,Recovered,Not Vaccinated,10.09568899,76.35212858
+03-04-2020,Emma Grate,18,Male,Recovered,Vaccinated,10.04228949,76.37027223
+03-04-2020,Annie Versaree,18,Female,Recovered,Not Vaccinated,10.00818345,76.31840866
+03-04-2020,Tim Midsaylesman,29,Male,Recovered,Not Vaccinated,10.05323346,76.3238595
+03-04-2020,Mary Krismass,38,Female,Recovered,Vaccinated,10.07922166,76.41369552
+03-04-2020,Tim “Buck” Too,82,Male,Recovered,Not Vaccinated,10.07083729,76.38697661
+03-04-2020,Lana Lynne Creem,62,Female,Recovered,Vaccinated,10.07457317,76.38235183
+03-04-2020,Wiley Waites,10,Female,Recovered,Vaccinated,10.00890914,76.3012771
+03-04-2020,Ty R. Leeva,13,Male,Recovered,Vaccinated,10.09231512,76.34465298
+03-04-2020,Ed U. Cayshun,4,Male,Recovered,Vaccinated,10.07812777,76.38281231
+03-04-2020,Anne T. Dote,40,Female,Recovered,Not Vaccinated,10.08208632,76.34462679
+03-04-2020,Claude Strophobia,43,Male,Recovered,Not Vaccinated,10.05263963,76.40136216
+03-04-2020,Anne Gloindian,63,Male,Recovered,Not Vaccinated,10.05527207,76.32028892
+03-04-2020,Dulcie Veeta,80,Male,Recovered,Not Vaccinated,10.05913764,76.32790519
+03-04-2020,Abby Normal,25,Male,Recovered,Vaccinated,9.998301136,76.31675053
+03-04-2020,Barjraj,57,Male,Recovered,Not Vaccinated,10.04548485,76.2997502
+03-04-2020,Ramdin Verma,7,Male,Recovered,Not Vaccinated,10.04885672,76.3776055
+03-04-2020,Sharat Chandran,79,Male,Recovered,Vaccinated,10.04483467,76.27606407
+03-04-2020,Birender Mandal,87,Male,Recovered,Not Vaccinated,10.05877735,76.38149851
+03-04-2020,Amit,1,Male,Recovered,Not Vaccinated,9.997729846,76.32185481
+03-04-2020,Kushal,3,Male,Recovered,Not Vaccinated,9.99006757,76.31327684
+03-04-2020,Kasid,75,Male,Recovered,Not Vaccinated,9.982098921,76.32901899
+03-04-2020,Shiv Prakash,10,Male,Recovered,Vaccinated,10.07577106,76.36347639
+03-04-2020,Vikram Singh,58,Male,Recovered,Not Vaccinated,10.04911603,76.30678796
+03-04-2020,Sanjay,72,Male,Recovered,Vaccinated,10.04153693,76.39476501
+03-04-2020,Abhi,14,Male,Recovered,Vaccinated,10.08217794,76.35376573
+03-04-2020,Ram Dutt Gupta,71,Male,Recovered,Vaccinated,10.05265511,76.33971991
+03-04-2020,Khadak Singh,46,Male,Recovered,Vaccinated,9.998045256,76.34057907
+03-04-2020,Gurmit Singh,87,Male,Recovered,Vaccinated,10.05219885,76.37673571
+03-04-2020,Chanderpal,80,Male,Recovered,Not Vaccinated,9.989059986,76.3394406
+03-04-2020,Aman,54,Male,Recovered,Not Vaccinated,10.1136477,76.37591536
+03-04-2020,Khursid,23,Male,Recovered,Not Vaccinated,10.10073777,76.37297203
+03-04-2020,Rajeev,71,Male,Recovered,Not Vaccinated,10.04349957,76.39211548
+03-04-2020,Durgesh,83,Male,Recovered,Not Vaccinated,10.03884585,76.34417992
+03-04-2020,Nahar Singh,17,Male,Recovered,Vaccinated,10.00944861,76.34306718
+03-04-2020,Ram Kumar,27,Male,Recovered,Not Vaccinated,10.10889695,76.35978347
+03-04-2020,Sunder Paal,38,Male,Recovered,Vaccinated,10.11531302,76.35386903
+03-04-2020,Maansingh Aswal,75,Male,Recovered,Vaccinated,10.0368453,76.38281489
+03-04-2020,Rohit,64,Male,Recovered,Not Vaccinated,10.09102906,76.36763895
+03-04-2020,Rohit,24,Male,Recovered,Not Vaccinated,10.09996518,76.37430046
+03-05-2020,Sparsh,40,Male,Recovered,Not Vaccinated,10.05549147,76.33695399
+03-05-2020,Santosh,47,Male,Recovered,Not Vaccinated,10.1015967,76.35105526
+03-05-2020,Santosh,82,Male,Recovered,Not Vaccinated,10.10924108,76.3742381
+03-05-2020,Punit Khandelwal,45,Male,Recovered,Not Vaccinated,10.05671775,76.40183636
+03-05-2020,Dinesh,54,Male,Recovered,Not Vaccinated,10.042135,76.35666539
+03-05-2020,Gulshan,40,Male,Recovered,Vaccinated,10.09737142,76.34634977
+03-05-2020,Arvind Kumar Yadav,72,Male,Recovered,Not Vaccinated,10.00210156,76.29905758
+03-05-2020,Nausad,42,Male,Recovered,Vaccinated,10.04039002,76.3667538
+03-05-2020,Gurmit Singh,8,Male,Recovered,Vaccinated,10.0255326,76.35168088
+03-05-2020,Md. Afsar,33,Male,Recovered,Vaccinated,10.07273315,76.32331624
+03-05-2020,Shiv Shakti Singh,15,Male,Recovered,Vaccinated,10.03941295,76.31556218
+03-05-2020,Moti Lal,49,Male,Recovered,Not Vaccinated,10.05662052,76.35294323
+03-05-2020,Kausal Kumar,46,Male,Recovered,Not Vaccinated,10.03501499,76.363239
+03-05-2020,Rohit,45,Male,Recovered,Vaccinated,10.03600671,76.32863892
+03-05-2020,Rohit,94,Male,Recovered,Not Vaccinated,10.06408064,76.30090993
+03-05-2020,Mohabbat Ali,13,Male,Recovered,Vaccinated,9.970997231,76.3006428
+03-05-2020,Raj Kumar,83,Male,Recovered,Vaccinated,9.984797723,76.30262749
+03-05-2020,Jaswant Singh,36,Male,Recovered,Vaccinated,10.01601683,76.31786929
+03-05-2020,Sevak @ Pitambar Lal,72,Male,Recovered,Vaccinated,10.03844693,76.34962373
+03-05-2020,Chotelal,64,Male,Recovered,Vaccinated,10.03929401,76.33695341
+03-05-2020,Amit,14,Male,Recovered,Vaccinated,9.968093177,76.30479823
+03-05-2020,Rupesh,66,Male,Recovered,Vaccinated,10.04971684,76.39273753
+03-05-2020,Midda,40,Male,Recovered,Not Vaccinated,10.09098871,76.36604066
+03-05-2020,Dharam Singh,18,Male,Recovered,Not Vaccinated,10.03987854,76.28579812
+03-05-2020,Manoj Yadav @ Manoj,76,Male,Recovered,Not Vaccinated,9.994081787,76.32118316
+03-05-2020,Ram Singh,2,Male,Recovered,Vaccinated,10.05316157,76.29176198
+03-05-2020,Preetam Kumar,1,Male,Recovered,Not Vaccinated,10.05316224,76.40187832
+03-06-2020,Ram Kumar,89,Male,Recovered,Vaccinated,10.0044706,76.35636914
+03-06-2020,Sarain,42,Male,Recovered,Vaccinated,10.06001393,76.39731588
+03-06-2020,Pankaj Kumar,89,Male,Recovered,Not Vaccinated,10.08491412,76.33940408
+03-06-2020,Sheak Shakir,76,Male,Recovered,Vaccinated,10.04407598,76.36289944
+03-06-2020,Riyasat Ali,6,Male,Recovered,Vaccinated,10.05715215,76.33016348
+03-06-2020,Vinit Katariya,23,Male,Recovered,Not Vaccinated,10.04057018,76.32354762
+03-06-2020,Sumit,18,Male,Recovered,Not Vaccinated,10.07975169,76.36056691
+03-06-2020,Arindra,72,Male,Recovered,Vaccinated,9.972616781,76.30114404
+03-06-2020,Kali Charan,92,Male,Recovered,Vaccinated,9.963384086,76.30871703
+03-06-2020,Badshya Khan,78,Male,Recovered,Vaccinated,9.995163967,76.28992195
+03-06-2020,Vikash,19,Male,Recovered,Not Vaccinated,9.996827609,76.33792614
+03-06-2020,Devinder Chadda,33,Male,Recovered,Not Vaccinated,10.06579921,76.40219708
+03-06-2020,Aman,78,Male,Recovered,Vaccinated,10.05487226,76.34867299
+03-06-2020,Mohan Singh,53,Male,Recovered,Vaccinated,10.05569824,76.36070657
+03-06-2020,Hemant,43,Male,Recovered,Vaccinated,10.01144566,76.28709898
+03-06-2020,Shivam,44,Male,Recovered,Not Vaccinated,10.08638625,76.3248924
+03-06-2020,Yash Mittal,30,Male,Recovered,Not Vaccinated,10.02572921,76.36122886
+03-06-2020,Aakash,26,Male,Recovered,Not Vaccinated,10.1076282,76.36762581
+03-06-2020,Chandesh,88,Male,Recovered,Not Vaccinated,10.04345881,76.39309456
+03-06-2020,Sumit Mitra,15,Male,Recovered,Vaccinated,9.991637833,76.31963828
+03-06-2020,Supriyal Sen,29,Male,Recovered,Vaccinated,10.07263981,76.34834509
+03-06-2020,Gajender Singh @ Goldy,60,Male,Recovered,Not Vaccinated,10.08273854,76.31877039
+03-06-2020,Pooran Chand Sharma,89,Male,Recovered,Vaccinated,10.1114158,76.35536966
+03-06-2020,Irfan,4,Male,Recovered,Not Vaccinated,10.06503595,76.30372309
+03-06-2020,Azaruddin,68,Male,Recovered,Vaccinated,10.10703036,76.34337948
+03-06-2020,Mukul Yadav,85,Male,Recovered,Not Vaccinated,10.07924226,76.32151264
+03-06-2020,Pooran Chand Sharma,26,Male,Recovered,Vaccinated,10.06025865,76.36121697
+03-06-2020,Manoj,1,Male,Recovered,Not Vaccinated,9.994761753,76.34248076
+03-06-2020,Sanjay Charee,62,Male,Recovered,Not Vaccinated,10.05354632,76.32921701
+03-06-2020,Raja Babu,67,Male,Recovered,Vaccinated,10.0888167,76.377069
+03-06-2020,Pawan,52,Male,Recovered,Not Vaccinated,10.04156783,76.30938262
+03-06-2020,Sandeep,73,Male,Recovered,Vaccinated,10.05459426,76.33876314
+03-06-2020,Rajkumar Chawla,51,Male,Recovered,Vaccinated,10.12241387,76.3613125
+03-06-2020,Parvesh,84,Male,Recovered,Vaccinated,10.02793526,76.3672601
+03-06-2020,Mohd Ataullah,91,Male,Recovered,Vaccinated,10.03588464,76.27630601
+03-06-2020,Neeraj Kumar,69,Male,Recovered,Not Vaccinated,10.03044534,76.30122138
+03-06-2020,Jamil Khan,85,Male,Recovered,Not Vaccinated,10.05324712,76.33282106
+03-06-2020,Yogita,57,Male,Recovered,Not Vaccinated,10.09109548,76.36484715
+03-06-2020,Rijul Aggarwal,48,Male,Recovered,Vaccinated,9.979637051,76.30336128
+03-06-2020,Mohd Shakib,81,Male,Recovered,Not Vaccinated,10.07621589,76.31527907
+03-06-2020,Rahul Kumar,52,Male,Recovered,Vaccinated,10.07820542,76.33340709
+03-06-2020,Rajender,3,Male,Recovered,Not Vaccinated,10.02756584,76.36888796
+03-06-2020,Suraj,75,Male,Recovered,Not Vaccinated,10.03878798,76.30807546
+03-06-2020,Rizwan,35,Male,Recovered,Not Vaccinated,10.02907699,76.37952075
+03-06-2020,Sandeep,46,Male,Recovered,Not Vaccinated,10.06082165,76.38048243
+03-06-2020,Md Mustafa,22,Male,Recovered,Vaccinated,9.991928613,76.34286931
+03-06-2020,Har Parsad,19,Male,Recovered,Vaccinated,10.04735512,76.32481139
+03-06-2020,Deepak,84,Male,Recovered,Vaccinated,10.05697393,76.38796855
+03-06-2020,Rahul,42,Male,Recovered,Not Vaccinated,9.981976627,76.3228506
+03-06-2020,Abhishekh,89,Male,Recovered,Vaccinated,9.989566599,76.326796
+03-06-2020,Shelender Yadav,25,Male,Recovered,Vaccinated,10.07048691,76.41651974
+03-06-2020,Sanjay,77,Male,Recovered,Vaccinated,10.08826963,76.39061303
+03-06-2020,Ankit,77,Male,Recovered,Vaccinated,10.0274904,76.3843867
+03-06-2020,Mohd Aakib,16,Male,Recovered,Not Vaccinated,10.11843236,76.36725556
+03-06-2020,Surender Singh Chauhan,17,Male,Recovered,Vaccinated,10.10794718,76.35109971
+03-06-2020,Amit,8,Male,Recovered,Not Vaccinated,10.04948318,76.30503401
+03-06-2020,Arjun,89,Male,Recovered,Not Vaccinated,10.01856981,76.35490134
+03-06-2020,Rahul Sharma,45,Male,Recovered,Vaccinated,10.01328894,76.31575303
+03-06-2020,Keshar Ansari,68,Male,Recovered,Vaccinated,10.04918097,76.3733722
+03-06-2020,Raju @ Chhotu,65,Male,Recovered,Vaccinated,10.06092244,76.30170907
+03-06-2020,Kuldeep Singh,16,Male,Recovered,Not Vaccinated,10.0988022,76.34260277
+03-06-2020,Santlal@Golu,41,Male,Recovered,Vaccinated,10.05842742,76.38359115
+03-06-2020,Lalit Rana,34,Male,Recovered,Not Vaccinated,10.0371946,76.27662049
+03-06-2020,Pulkit Sharma,8,Male,Recovered,Not Vaccinated,10.07644639,76.34191912
+03-06-2020,Aman Soni @ Badal,47,Male,Recovered,Vaccinated,10.03009711,76.32326745
+03-06-2020,Jahoor Ahmed Meer,20,Male,Recovered,Not Vaccinated,10.07456341,76.37763129
+03-06-2020,Sumit,71,Male,Recovered,Not Vaccinated,10.05726898,76.33969478
+03-06-2020,Tammanne,49,Male,Recovered,Vaccinated,10.08830007,76.38542051
+03-06-2020,Kailash Kumar,62,Male,Recovered,Vaccinated,10.0099323,76.35782771
+03-06-2020,Bhagwati Prasad,83,Male,Recovered,Vaccinated,10.06440898,76.39975973
+03-06-2020,Ajay,95,Male,Recovered,Vaccinated,10.04284127,76.34255584
+03-06-2020,Silender,62,Male,Recovered,Vaccinated,10.04804083,76.39098225
+03-06-2020,Deepak,64,Male,Recovered,Not Vaccinated,10.01141411,76.29885843
+03-06-2020,Akhilesh,93,Male,Recovered,Not Vaccinated,10.03982346,76.30791624
+03-06-2020,Dipendra Kumar,19,Male,Recovered,Not Vaccinated,10.04603145,76.33020923
+03-06-2020,Nitin,65,Male,Recovered,Vaccinated,10.08428701,76.34572266
+03-06-2020,Doodhnath Pandit,93,Male,Recovered,Not Vaccinated,10.01484778,76.35845764
+03-06-2020,Aslam Allam,84,Male,Recovered,Not Vaccinated,10.1014461,76.38248301
+03-06-2020,Rahul,15,Male,Recovered,Vaccinated,10.00015708,76.29359123
+03-06-2020,Jitender Kumar,62,Male,Recovered,Vaccinated,10.05863569,76.30233277
+03-06-2020,Adnan,84,Male,Recovered,Not Vaccinated,10.00130405,76.33361137
+03-07-2020,Vijay,61,Male,Recovered,Not Vaccinated,9.981278087,76.32962261
+03-07-2020,Yogesh,64,Male,Recovered,Vaccinated,10.00093575,76.31830527
+03-07-2020,Kabir,54,Male,Recovered,Not Vaccinated,10.0096603,76.34356922
+03-07-2020,Sarvesh,26,Male,Recovered,Vaccinated,9.990887682,76.30717404
+03-07-2020,Rakesh Sarkar,20,Male,Recovered,Not Vaccinated,10.02484078,76.31089531
+03-07-2020,Akash Gupta,29,Male,Recovered,Not Vaccinated,10.04677302,76.33697381
+03-07-2020,Rahul,13,Male,Recovered,Not Vaccinated,10.07026295,76.30540064
+03-07-2020,Pintu Thakur,4,Male,Recovered,Vaccinated,10.08979107,76.38282539
+03-07-2020,Vivek,74,Male,Recovered,Not Vaccinated,10.04180955,76.28487738
+03-07-2020,Mohd Khairul,44,Male,Recovered,Vaccinated,10.0656388,76.38928584
+03-07-2020,Farmaan Khan,71,Male,Recovered,Vaccinated,10.03441199,76.38916287
+03-07-2020,Vansu Dev,15,Male,Recovered,Not Vaccinated,10.02087304,76.29787467
+03-07-2020,Vansu Dev,9,Male,Recovered,Vaccinated,10.05611772,76.34487184
+03-07-2020,Shyam Kumar,58,Male,Recovered,Not Vaccinated,10.07396176,76.3376956
+03-07-2020,Shafibul,17,Male,Recovered,Vaccinated,10.06552354,76.36012088
+03-07-2020,Lalit Kathuriya,29,Male,Recovered,Vaccinated,10.06753714,76.42751297
+03-07-2020,Pooran Chand,84,Male,Recovered,Not Vaccinated,10.06350692,76.31912335
+03-07-2020,Aamir Hussain,42,Male,Recovered,Not Vaccinated,9.976383623,76.3094751
+03-07-2020,Kamal Jit Singh,41,Male,Recovered,Not Vaccinated,10.07253408,76.33898285
+03-07-2020,Shiv Kumar,83,Male,Recovered,Not Vaccinated,10.03199653,76.3839533
+03-07-2020,Mayank Chaudhary @ Rahul,11,Male,Recovered,Vaccinated,10.07628692,76.36553352
+03-07-2020,Rohit,6,Male,Recovered,Vaccinated,10.10689393,76.34904354
+03-07-2020,Som Dutt,24,Male,Recovered,Vaccinated,10.05406629,76.31109312
+03-07-2020,Bablu Regar,95,Male,Recovered,Vaccinated,10.07614176,76.35958554
+03-07-2020,Rohit,22,Male,Recovered,Not Vaccinated,10.04697761,76.28126254
+03-07-2020,Rajkumar,10,Male,Recovered,Vaccinated,10.05082382,76.29516797
+03-07-2020,Mubarik,38,Male,Recovered,Not Vaccinated,10.00400919,76.30123521
+03-07-2020,Niraj,14,Male,Recovered,Vaccinated,10.06447872,76.35506859
+03-07-2020,Sarbjeet @ Ronak,38,Male,Recovered,Vaccinated,10.11212607,76.36411725
+03-07-2020,Axat,23,Male,Recovered,Vaccinated,10.05068767,76.4102223
+03-07-2020,Amit,77,Male,Recovered,Vaccinated,10.10656518,76.35224322
+03-07-2020,Anubhav Shrivastab,22,Male,Recovered,Vaccinated,10.02167591,76.28978717
+03-07-2020,Akkash,60,Male,Recovered,Vaccinated,9.982952901,76.32039504
+03-07-2020,Himanshu,3,Male,Recovered,Vaccinated,10.10011005,76.37947609
+03-07-2020,Harsh Dagar,89,Male,Recovered,Not Vaccinated,10.08248428,76.33270012
+03-07-2020,Anil Kumar,4,Male,Recovered,Vaccinated,10.00497606,76.34617161
+03-07-2020,Vijay Virmani,92,Male,Recovered,Vaccinated,10.00568782,76.34598962
+03-07-2020,Vivek Auhari,54,Male,Recovered,Not Vaccinated,10.07824827,76.34149399
+03-07-2020,Sachin,61,Male,Recovered,Not Vaccinated,10.07240562,76.34291068
+03-07-2020,Subhash Chand Bhatia,2,Male,Recovered,Vaccinated,10.11350274,76.37781629
+03-07-2020,Bhupender,51,Male,Recovered,Not Vaccinated,9.984783864,76.30149314
+03-07-2020,Raghunandan Das,27,Male,Recovered,Vaccinated,10.03484749,76.34604895
+03-07-2020,Sanjay,78,Male,Recovered,Vaccinated,9.992819483,76.34580653
+03-07-2020,Ajay Kumar,6,Male,Recovered,Vaccinated,10.00330203,76.31196924
+03-07-2020,Yognder,59,Male,Recovered,Vaccinated,10.04204981,76.35786803
+03-07-2020,Subhash,31,Male,Recovered,Vaccinated,9.995563567,76.29952899
+03-07-2020,Arun @ Vicky,13,Male,Recovered,Vaccinated,10.06607411,76.38721061
+03-07-2020,Rahul,82,Male,Recovered,Vaccinated,10.0764289,76.41982766
+03-07-2020,Vikas,36,Male,Recovered,Not Vaccinated,10.04605629,76.38292269
+03-07-2020,Vinod,57,Male,Recovered,Not Vaccinated,10.03556946,76.33744157
+03-07-2020,Salman,18,Male,Recovered,Not Vaccinated,10.09348301,76.37224682
+03-08-2020,Mohan Kumar,21,Male,Recovered,Not Vaccinated,10.03384054,76.38643778
+03-08-2020,Sandeep Meghawal,46,Male,Recovered,Vaccinated,10.09963253,76.34633358
+03-08-2020,Imamudeen,71,Male,Recovered,Not Vaccinated,10.0907937,76.33032856
+03-08-2020,Sandeep Kumar,38,Male,Recovered,Vaccinated,10.00410835,76.35921997
+03-08-2020,Tarjan,90,Male,Recovered,Vaccinated,10.05653237,76.320068
+03-08-2020,Kuldeep Singh,6,Male,Recovered,Not Vaccinated,9.97774585,76.31456065
+03-08-2020,Murari,34,Male,Recovered,Not Vaccinated,10.06020331,76.34354597
+03-08-2020,Ramvilash,74,Male,Recovered,Vaccinated,10.05380194,76.30212081
+03-08-2020,Jagdish,80,Male,Recovered,Not Vaccinated,10.00109083,76.32970532
+03-08-2020,Vishal @ Moni,94,Male,Recovered,Not Vaccinated,10.10248082,76.3659723
+03-08-2020,Mohd Shahid,2,Male,Recovered,Not Vaccinated,10.02995599,76.32779393
+03-08-2020,Ramvilash,6,Male,Recovered,Not Vaccinated,9.966469289,76.30535142
+03-08-2020,Kuldeep,53,Male,Recovered,Vaccinated,10.10900269,76.36974792
+03-08-2020,Talim,92,Male,Recovered,Vaccinated,10.10316868,76.34159893
+03-08-2020,Nanku Prasad,67,Male,Recovered,Not Vaccinated,10.0105313,76.28971265
+03-08-2020,Bhola Sarkar,12,Male,Recovered,Not Vaccinated,10.02874037,76.33934831
+03-08-2020,Balraj,22,Male,Recovered,Vaccinated,9.961425316,76.30823158
+03-08-2020,Ravindra Kumar,21,Male,Recovered,Vaccinated,10.05551939,76.29484199
+03-08-2020,Rohit Kumar,82,Male,Recovered,Not Vaccinated,9.989016714,76.32270935
+03-08-2020,Uttam Kumar @ Sanki,93,Male,Recovered,Vaccinated,10.05186437,76.36996211
+03-08-2020,Babalu Sen,41,Male,Recovered,Not Vaccinated,10.03440709,76.30112562
+03-08-2020,Rustam Shah,80,Male,Recovered,Vaccinated,10.03514246,76.30721762
+03-08-2020,Sukhdev,31,Male,Recovered,Vaccinated,10.05272164,76.34865555
+03-08-2020,B Vikjay Kumar,40,Male,Recovered,Not Vaccinated,10.09546362,76.37910159
+03-08-2020,Dolly @ Rekha W/O Monto Shah,62,Male,Recovered,Not Vaccinated,10.06162272,76.36722741
+03-08-2020,Gopal Sharma,66,Male,Recovered,Vaccinated,10.08754636,76.39989572
+03-08-2020,Beeru,16,Male,Recovered,Not Vaccinated,10.07986376,76.3628275
+03-08-2020,Vipin,31,Male,Recovered,Vaccinated,10.03734765,76.39136981
+03-08-2020,Manish Garg,91,Male,Recovered,Vaccinated,10.03835278,76.36102272
+03-08-2020,Guddu,54,Male,Recovered,Not Vaccinated,10.08402455,76.34706909
+03-08-2020,Jatin @ Sonu,66,Male,Recovered,Not Vaccinated,10.10310246,76.36250134
+03-08-2020,Amit Kumar,25,Male,Recovered,Not Vaccinated,9.975540417,76.29756596
+03-08-2020,Amit Kumar,11,Male,Recovered,Not Vaccinated,10.03638506,76.37456136
+03-08-2020,Shadab,93,Male,Recovered,Not Vaccinated,10.07619985,76.41250151
+03-08-2020,Rakesh,87,Male,Recovered,Not Vaccinated,10.0368292,76.38748978
+03-08-2020,Guddu,77,Male,Recovered,Not Vaccinated,9.970971839,76.31919065
+03-08-2020,Abhishek,50,Male,Recovered,Vaccinated,10.01245466,76.31045687
+03-08-2020,Gulfam,56,Male,Recovered,Not Vaccinated,10.0213623,76.35500923
+03-08-2020,Phoolwati @ Phoolo Devi,74,Male,Recovered,Not Vaccinated,10.03579587,76.32168223
+03-08-2020,Mohit Maan,53,Male,Recovered,Vaccinated,10.04242223,76.30988415
+03-09-2020,Veer Bhan Singh,88,Male,Recovered,Not Vaccinated,10.04330215,76.31758574
+03-09-2020,Dinesh Kumar,78,Male,Recovered,Vaccinated,10.02853371,76.35518799
+03-09-2020,Amarjeet,3,Male,Recovered,Vaccinated,10.02225714,76.31493419
+03-09-2020,Satyadev,87,Male,Recovered,Vaccinated,10.07031361,76.33087576
+03-09-2020,Mohd. Mukhtaar,52,Male,Recovered,Vaccinated,10.03438734,76.37376665
+03-09-2020,Rishi,44,Male,Recovered,Not Vaccinated,10.05892385,76.37583601
+03-09-2020,Esrail Khan,66,Male,Recovered,Vaccinated,10.04119623,76.36439265
+03-09-2020,Suresh Kumar,9,Male,Recovered,Not Vaccinated,10.02409354,76.37721191
+03-09-2020,Pankaj Chand,4,Male,Recovered,Vaccinated,10.03923452,76.29681926
+03-09-2020,Ajay Narayan,68,Male,Recovered,Vaccinated,10.079102,76.37526055
+03-09-2020,Mohit @ Himanshu,34,Male,Recovered,Vaccinated,10.01863299,76.33053214
+03-09-2020,Sumit,33,Male,Recovered,Vaccinated,10.09808761,76.38688881
+03-09-2020,Saddam,74,Male,Recovered,Vaccinated,10.02501467,76.33976222
+03-09-2020,Nikhleshwar Bhagat,87,Male,Recovered,Not Vaccinated,10.08071998,76.34509352
+03-09-2020,Jai Singh,56,Male,Recovered,Vaccinated,10.09910299,76.33719604
+03-09-2020,Deepak,78,Male,Recovered,Not Vaccinated,10.06454708,76.31919221
+03-09-2020,Sunil Kumar,64,Male,Recovered,Vaccinated,10.04754529,76.3453404
+03-09-2020,Ram Kishan,87,Male,Recovered,Not Vaccinated,10.09336806,76.34339265
+03-09-2020,Arun,51,Male,Recovered,Vaccinated,10.05344543,76.36158522
+03-09-2020,Virender,22,Male,Recovered,Vaccinated,10.03281439,76.38774511
+03-09-2020,Bishun,1,Male,Recovered,Not Vaccinated,10.01593396,76.3539428
+03-09-2020,Pritam Singh,24,Male,Recovered,Vaccinated,9.990011235,76.34228847
+03-09-2020,Akash Gupta,77,Male,Recovered,Not Vaccinated,10.04224239,76.29305658
+03-09-2020,Kishan,63,Male,Recovered,Not Vaccinated,9.99736299,76.29897828
+03-09-2020,Mohd Kausar,61,Male,Recovered,Not Vaccinated,9.978925448,76.30002364
+03-09-2020,Sachin,45,Male,Recovered,Vaccinated,10.05755213,76.40182159
+03-09-2020,Harman Singh,55,Male,Recovered,Vaccinated,10.10617116,76.36647847
+03-09-2020,Deepak,71,Male,Recovered,Not Vaccinated,10.04204483,76.2810126
+03-09-2020,Rajbir,41,Male,Recovered,Not Vaccinated,10.09159399,76.34395527
+03-09-2020,Vinod Lal,12,Male,Recovered,Not Vaccinated,10.04379296,76.38829381
+03-09-2020,Shivani,17,Female,Recovered,Not Vaccinated,10.07731618,76.33352508
+03-09-2020,Isha,32,Female,Recovered,Vaccinated,9.979870541,76.2955325
+03-09-2020,Smt Shyani Devi,46,Female,Recovered,Vaccinated,10.03400738,76.35736162
+03-09-2020,Divya,77,Female,Recovered,Vaccinated,10.07470952,76.3200555
+03-09-2020,Mansi,54,Female,Recovered,Not Vaccinated,10.06779254,76.39402138
+03-09-2020,Mazida,8,Female,Recovered,Vaccinated,10.03265287,76.29022431
+03-09-2020,Pooja,86,Female,Recovered,Vaccinated,10.0737825,76.35290721
+03-09-2020,Kajal,85,Female,Recovered,Not Vaccinated,10.06251027,76.40936424
+03-09-2020,Meena,87,Female,Recovered,Vaccinated,10.01933866,76.33345953
+03-09-2020,Sonam,79,Female,Recovered,Not Vaccinated,9.981521162,76.31031413
+03-09-2020,Buity,26,Female,Recovered,Vaccinated,9.989526622,76.30599955
+03-09-2020,Hina,73,Female,Recovered,Vaccinated,10.04589454,76.40339229
+03-09-2020,Shakshi Sagar,56,Female,Recovered,Not Vaccinated,9.997841829,76.35136718
+03-09-2020,Pooja,1,Female,Recovered,Not Vaccinated,10.01028439,76.36316368
+03-09-2020,Anita,23,Female,Recovered,Not Vaccinated,10.05758548,76.39307157
+03-09-2020,Neetu,12,Female,Recovered,Not Vaccinated,10.04757541,76.35435957
+03-09-2020,Anshu D/O,50,Female,Recovered,Vaccinated,10.01970798,76.29665911
+03-09-2020,Kanika Kathuria,16,Female,Recovered,Not Vaccinated,10.04736962,76.34581458
+03-09-2020,Manju,66,Female,Recovered,Not Vaccinated,10.03014515,76.38197536
+03-09-2020,Shakshi,24,Female,Recovered,Vaccinated,10.00846712,76.3402032
+03-09-2020,Anita,78,Female,Recovered,Vaccinated,10.07380615,76.39138194
+03-09-2020,Reena,42,Female,Recovered,Not Vaccinated,10.01691212,76.28742453
+03-09-2020,Neha,15,Female,Recovered,Not Vaccinated,10.0362562,76.38448948
+03-09-2020,Khushboo,6,Female,Recovered,Not Vaccinated,10.07279169,76.38263586
+03-09-2020,Aasmin,60,Female,Recovered,Not Vaccinated,10.06848034,76.38401793
+03-09-2020,Jyoti,70,Female,Recovered,Vaccinated,10.01812764,76.28250211
+03-10-2020,Riya Masi,73,Female,Recovered,Not Vaccinated,10.02342983,76.37262321
+03-10-2020,Rekha,90,Female,Recovered,Not Vaccinated,10.02598113,76.32061234
+03-10-2020,Leela With A Child,54,Female,Recovered,Vaccinated,9.99931392,76.32422066
+03-10-2020,Isha,77,Female,Recovered,Not Vaccinated,10.03935199,76.32624421
+03-10-2020,Gulshan,31,Female,Recovered,Vaccinated,10.05821696,76.39191876
+03-10-2020,Priya Jain,88,Female,Recovered,Vaccinated,10.0631167,76.31930144
+03-10-2020,Pooja,63,Female,Recovered,Vaccinated,10.03005137,76.31411448
+03-10-2020,Rakhi @Payal,35,Female,Recovered,Vaccinated,10.06229981,76.39940013
+03-10-2020,Versha,31,Female,Recovered,Not Vaccinated,10.10296018,76.35097443
+03-10-2020,Sunita,61,Female,Recovered,Vaccinated,10.03743257,76.28353396
+03-10-2020,Nitu Kumari,53,Female,Recovered,Not Vaccinated,10.09208465,76.3503857
+03-10-2020,Vandana,7,Female,Recovered,Not Vaccinated,10.048398,76.29528865
+03-10-2020,Roshni,91,Female,Recovered,Vaccinated,9.987955489,76.31468461
+03-10-2020,Parveen,45,Female,Recovered,Not Vaccinated,9.979111581,76.31609546
+03-10-2020,Versa,82,Female,Recovered,Vaccinated,10.0734947,76.32772005
+03-10-2020,Kavita,83,Female,Recovered,Not Vaccinated,10.05241123,76.33302151
+03-10-2020,Pooja,13,Female,Recovered,Not Vaccinated,10.08336211,76.34341159
+03-10-2020,Sarojani,10,Female,Recovered,Vaccinated,10.0383419,76.37912765
+03-10-2020,Nagina,60,Female,Recovered,Not Vaccinated,10.06069035,76.40303541
+03-10-2020,Tapas Das,66,Female,Recovered,Vaccinated,10.00355499,76.35283977
+03-10-2020,Priyanka,60,Female,Recovered,Vaccinated,10.03589738,76.28683543
+03-10-2020,Santna,27,Female,Recovered,Vaccinated,10.0608715,76.34394985
+03-10-2020,Khushbu,95,Female,Recovered,Vaccinated,10.06019554,76.35153933
+03-10-2020,Pooja,75,Female,Recovered,Vaccinated,10.04658365,76.30101936
+03-10-2020,Any Bobby,19,Female,Recovered,Not Vaccinated,9.981278473,76.32622715
+03-10-2020,Deeya Kumari,64,Female,Recovered,Not Vaccinated,10.01476027,76.31819401
+03-10-2020,Anjali Juneja,1,Female,Recovered,Not Vaccinated,10.03936957,76.28307602
+03-10-2020,Anjali @ Babli,83,Female,Recovered,Not Vaccinated,10.02674158,76.34160281
+03-10-2020,Champa Karketta,39,Female,Recovered,Not Vaccinated,10.09595694,76.33281886
+03-11-2020,Anshu,45,Female,Recovered,Vaccinated,10.01732146,76.33024103
+03-11-2020,Monika,60,Female,Recovered,Not Vaccinated,10.07509678,76.31487353
+03-11-2020,Rimmi Singh,39,Female,Recovered,Vaccinated,10.09818827,76.33357808
+03-11-2020,Aanamika Misra,68,Female,Recovered,Not Vaccinated,10.08747186,76.33233392
+03-11-2020,Chahat,88,Female,Recovered,Vaccinated,9.966051016,76.30575886
+03-11-2020,Manju,36,Female,Recovered,Vaccinated,10.02575866,76.29934571
+03-11-2020,Nagma Khatoon,3,Female,Recovered,Vaccinated,9.984118981,76.30357519
+03-11-2020,Pooja,43,Female,Recovered,Vaccinated,10.02549403,76.28031336
+03-11-2020,Sonam,93,Female,Recovered,Vaccinated,10.01890676,76.29448105
+03-11-2020,Koshal,10,Female,Recovered,Vaccinated,10.04862246,76.33030241
+03-11-2020,Laxmi Devi W/O Late Sh Hukan Chand,45,Female,Recovered,Not Vaccinated,10.00386377,76.34316212
+03-11-2020,Sandhya,68,Female,Recovered,Not Vaccinated,10.07923552,76.3202851
+03-11-2020,Poonam,7,Female,Recovered,Not Vaccinated,10.0865124,76.39781693
+03-11-2020,Sna,70,Female,Recovered,Not Vaccinated,10.05187146,76.32873105
+03-11-2020,Nikita Senger,11,Female,Recovered,Not Vaccinated,10.05142825,76.3228236
+03-11-2020,Layba Noor,55,Female,Recovered,Not Vaccinated,10.01158378,76.31435989
+03-11-2020,Iqra,52,Female,Recovered,Not Vaccinated,10.06896357,76.42902504
+03-11-2020,Salima,36,Female,Recovered,Not Vaccinated,10.04303473,76.30229289
+03-11-2020,Naziya Siddiqui,12,Female,Recovered,Not Vaccinated,10.03378374,76.28552144
+03-11-2020,Priti,28,Female,Recovered,Vaccinated,9.979334059,76.2988043
+03-11-2020,Kamni,2,Female,Recovered,Vaccinated,10.03329843,76.36362354
+03-11-2020,Sandhya,65,Female,Recovered,Vaccinated,9.962459803,76.31000374
+03-11-2020,Renu @ Rinki,29,Female,Recovered,Vaccinated,10.04397522,76.30679697
+03-11-2020,Priya,55,Female,Recovered,Not Vaccinated,10.00676659,76.31882214
+03-11-2020,Pooja,12,Female,Recovered,Not Vaccinated,10.05072497,76.3061193
+03-11-2020,Minakchi,35,Female,Recovered,Vaccinated,10.02244884,76.31488996
+03-11-2020,Ruby,79,Female,Recovered,Not Vaccinated,10.0669565,76.42649428
+03-11-2020,Smt.Farhana Baigum,90,Female,Recovered,Vaccinated,10.0134229,76.36686192
+03-11-2020,Sheetal,13,Female,Recovered,Vaccinated,10.07142263,76.32251546
+03-11-2020,Kalyani Patro,46,Female,Recovered,Not Vaccinated,9.97547161,76.31870047
+03-11-2020,Anjali,31,Female,Recovered,Not Vaccinated,10.03424035,76.29805428
+03-11-2020,Priyanka,26,Female,Recovered,Vaccinated,10.09118057,76.37112987
+03-11-2020,Palak @ Simran,17,Female,Recovered,Vaccinated,10.04536958,76.38366727
+03-12-2020,Babita,54,Female,Recovered,Not Vaccinated,10.01216914,76.33885574
+03-12-2020,Gurdeep Kaur,53,Female,Recovered,Not Vaccinated,10.0590883,76.33401455
+03-12-2020,Dhanwanti Devi,62,Female,Recovered,Not Vaccinated,10.10253978,76.37435925
+03-12-2020,Fooljhnah,26,Female,Recovered,Not Vaccinated,10.00836308,76.36343167
+03-12-2020,Vandana,28,Female,Recovered,Not Vaccinated,10.03597241,76.32197768
+03-12-2020,Smt. Gyatri Devi,17,Female,Recovered,Vaccinated,10.10616388,76.37457797
+03-12-2020,Shehnaz,43,Female,Recovered,Not Vaccinated,10.05028596,76.33241795
+03-12-2020,Kajal,19,Female,Recovered,Vaccinated,10.04246174,76.34449938
+03-12-2020,Pooja,94,Female,Recovered,Vaccinated,10.03038901,76.36341206
+03-12-2020,Ranju,31,Female,Recovered,Vaccinated,10.06138029,76.32860035
+03-12-2020,Vidhi,31,Female,Recovered,Not Vaccinated,10.00237705,76.3400348
+03-12-2020,Pooja Kashyap,49,Female,Recovered,Vaccinated,10.07229854,76.3095664
+03-12-2020,Jyoti,12,Female,Recovered,Not Vaccinated,10.05954774,76.36286156
+03-12-2020,Meena Kumari,23,Female,Recovered,Vaccinated,10.05480715,76.37980752
+03-12-2020,"Savita, Sagar, Panap",29,Female,Recovered,Not Vaccinated,10.02166555,76.35703067
+03-12-2020,Reena Devi,52,Female,Recovered,Vaccinated,9.98732908,76.32758658
+03-12-2020,Neha,75,Female,Recovered,Not Vaccinated,10.07963683,76.39754703
+03-12-2020,Payal Goyala,80,Female,Recovered,Not Vaccinated,10.09000928,76.35635733
+03-12-2020,Rakhi,12,Female,Recovered,Not Vaccinated,10.10223128,76.36562162
+03-12-2020,Priynka,66,Female,Recovered,Not Vaccinated,9.996666443,76.31957433
+03-12-2020,Janki,66,Female,Recovered,Not Vaccinated,9.980065926,76.33214417
+03-12-2020,Laxmi Kumari,84,Female,Recovered,Not Vaccinated,10.08958083,76.39782083
+03-12-2020,Rinku Malav,95,Female,Recovered,Not Vaccinated,10.03569305,76.31814775
+03-12-2020,Sohni,9,Female,Recovered,Not Vaccinated,10.07094686,76.34510699
+03-12-2020,Basnti,92,Female,Recovered,Not Vaccinated,10.06290643,76.37958903
+03-12-2020,Meera,7,Female,Recovered,Not Vaccinated,10.09859113,76.37980265
+03-12-2020,Pinki,58,Female,Recovered,Not Vaccinated,10.03819943,76.38631295
+03-12-2020,Shivani,68,Female,Recovered,Vaccinated,9.991652162,76.31964932
+03-12-2020,Kiran Devi,7,Female,Recovered,Vaccinated,10.022868,76.29658827
+03-12-2020,Sonia,18,Female,Recovered,Not Vaccinated,9.990335181,76.32954238
+03-12-2020,Doly,41,Female,Recovered,Vaccinated,10.10204954,76.35822995
+03-12-2020,Raj Kumari,61,Female,Recovered,Not Vaccinated,10.10219836,76.38364683
+03/13/2020,Manisha,15,Female,Recovered,Not Vaccinated,10.07355012,76.41734095
+03/13/2020,Laxmi Devi,65,Female,Recovered,Vaccinated,10.0280584,76.34112663
+03/13/2020,Swati Joshi,56,Female,Recovered,Not Vaccinated,10.09019363,76.3328846
+03/13/2020,Aashiya,16,Female,Recovered,Vaccinated,10.05952464,76.35861918
+03/13/2020,Reena,70,Female,Recovered,Vaccinated,10.03769046,76.32332584
+03/13/2020,Vimla,33,Female,Recovered,Not Vaccinated,10.02774819,76.34749765
+03/13/2020,Suman,41,Female,Recovered,Not Vaccinated,9.993683207,76.34287334
+03/13/2020,Sunita,80,Female,Recovered,Vaccinated,10.01636988,76.35894607
+03/13/2020,Sunita,37,Female,Recovered,Not Vaccinated,10.03855384,76.36635658
+03/13/2020,Karina @ Kavita,82,Female,Recovered,Vaccinated,10.05524526,76.37497128
+03/13/2020,Pooja Jayshwal,48,Female,Recovered,Vaccinated,10.0380206,76.36824012
+03/13/2020,Pooja Prajapati @ Pratibha,78,Female,Recovered,Vaccinated,9.990679024,76.33590826
+03/13/2020,Seema,67,Female,Recovered,Not Vaccinated,10.03020861,76.3283683
+03/13/2020,Kranti,67,Female,Recovered,Not Vaccinated,10.06417355,76.41171488
+03/13/2020,Neha,71,Female,Recovered,Not Vaccinated,10.06321106,76.41186014
+03/13/2020,Dimpal @Doli,18,Female,Recovered,Not Vaccinated,9.992751847,76.3096969
+03/13/2020,Aarti Devi,21,Female,Recovered,Vaccinated,10.0336121,76.30769486
+03/13/2020,Sashi Mittal,95,Female,Recovered,Not Vaccinated,10.04801391,76.33796581
+03/13/2020,Pooja,32,Female,Recovered,Vaccinated,9.995895178,76.29487368
+03/13/2020,Preeti,80,Female,Recovered,Not Vaccinated,10.05638823,76.31721436
+03/13/2020,Priyanka,47,Female,Recovered,Not Vaccinated,10.03151828,76.34627215
+03/13/2020,Shajiya,71,Female,Recovered,Not Vaccinated,10.00635335,76.33133379
+03/13/2020,Priya Sexena,72,Female,Recovered,Vaccinated,10.00846684,76.32762733
+03/13/2020,Preeti,37,Female,Recovered,Vaccinated,10.07908404,76.34828771
+03/13/2020,Shanti Devi,66,Female,Recovered,Vaccinated,10.08881862,76.32611232
+03/13/2020,Sitara,6,Female,Recovered,Not Vaccinated,10.0153348,76.36944249
+03/13/2020,Aakanksha,53,Female,Recovered,Not Vaccinated,10.08085376,76.33493841
+03/13/2020,Charu,3,Female,Recovered,Vaccinated,10.02977926,76.38055455
+03/13/2020,Pinki,34,Female,Recovered,Not Vaccinated,10.08066485,76.41165417
+03/13/2020,Nilam Devi,46,Female,Recovered,Vaccinated,10.04057601,76.28136478
+03/13/2020,Chango Uraon,76,Female,Recovered,Not Vaccinated,10.01584125,76.33995254
+03/13/2020,Shiv Kumari,92,Female,Recovered,Not Vaccinated,9.969029728,76.30097029
+03/13/2020,Kaushaliya,9,Female,Recovered,Vaccinated,10.03891249,76.28456771
+03/14/2020,Babita,77,Female,Recovered,Vaccinated,10.06066702,76.40760972
+03/14/2020,Mangla Urf Mangi Bai,55,Female,Recovered,Vaccinated,10.04469007,76.28056806
+03/14/2020,Grace P.A.,31,Female,Recovered,Not Vaccinated,10.02964028,76.27948598
+03/14/2020,Usha,91,Female,Recovered,Not Vaccinated,10.07181625,76.37810529
+03/14/2020,Smt Rubi,69,Female,Recovered,Vaccinated,10.03895206,76.33109622
+03/14/2020,Nisha @ Chinu,26,Female,Recovered,Vaccinated,10.03120665,76.36872941
+03/14/2020,Subhadra,9,Female,Recovered,Not Vaccinated,10.04934602,76.27969097
+03/14/2020,Lalita,26,Female,Recovered,Vaccinated,10.06312287,76.38268044
+03/14/2020,Asma Khatun,5,Female,Recovered,Not Vaccinated,10.03358026,76.30575143
+03/14/2020,Anjali,68,Female,Recovered,Vaccinated,10.05231402,76.29948593
+03/14/2020,Kalawati,31,Female,Recovered,Not Vaccinated,10.09254572,76.35825381
+03/14/2020,Seema,30,Female,Recovered,Not Vaccinated,10.01099232,76.31708863
+03/14/2020,Santosh Singal,56,Female,Recovered,Not Vaccinated,10.04410649,76.31659285
+03/14/2020,Priyanka,17,Female,Recovered,Vaccinated,10.05343657,76.3492256
+03/14/2020,Tina,93,Female,Recovered,Vaccinated,10.07593438,76.31732103
+03/14/2020,Chanchal,19,Female,Recovered,Not Vaccinated,10.04084797,76.3152112
+03/14/2020,Mercy,69,Female,Recovered,Vaccinated,10.02642036,76.33676208
+03/14/2020,Poonam,66,Female,Recovered,Vaccinated,10.07604399,76.37386797
+03/14/2020,Smt. Manju,54,Female,Recovered,Vaccinated,10.0181142,76.34274479
+03/14/2020,Varsha,89,Female,Recovered,Vaccinated,10.05392052,76.32766213
+03/14/2020,Huma Khan,95,Female,Recovered,Vaccinated,10.05783784,76.39950195
+03/14/2020,Gulbasha,65,Female,Recovered,Vaccinated,10.01924679,76.34328914
+03/14/2020,Seema Khatun,20,Female,Recovered,Vaccinated,10.08553272,76.40336477
+03/14/2020,Seema,92,Female,Recovered,Not Vaccinated,10.05040262,76.37480582
+03/14/2020,Roshni,42,Female,Recovered,Not Vaccinated,10.04566285,76.37653451
+03/14/2020,Rahila Maqbool,6,Female,Recovered,Not Vaccinated,10.11717153,76.37318684
+03/14/2020,Kajal Choudhary,91,Female,Recovered,Vaccinated,10.02556029,76.29675377
+03/14/2020,Preeti,25,Female,Recovered,Vaccinated,10.07005487,76.30373347
+03/14/2020,Geeta Devi,7,Female,Recovered,Not Vaccinated,9.98548214,76.31558898
+03/14/2020,Swati Thakur,74,Female,Recovered,Not Vaccinated,10.05372416,76.35482273
+03/14/2020,Pooja,92,Female,Recovered,Not Vaccinated,10.00837655,76.35285066
+03/14/2020,Shenaz,20,Female,Recovered,Not Vaccinated,10.0315773,76.3015385
+03/14/2020,Rinki,63,Female,Recovered,Not Vaccinated,10.00968636,76.32129877
+03/14/2020,Chandni,12,Female,Recovered,Not Vaccinated,10.08347436,76.40488517
+03/14/2020,Priyanka,49,Female,Recovered,Vaccinated,10.01142422,76.34160011
+03/14/2020,Ruksana,77,Female,Recovered,Not Vaccinated,10.04274633,76.30029828
+03/14/2020,Vivek Kumar,69,Female,Recovered,Not Vaccinated,10.08778156,76.34962657
+03/15/2020,Kiran,25,Female,Recovered,Not Vaccinated,10.04570833,76.37147319
+03/15/2020,Nisha,4,Female,Recovered,Not Vaccinated,10.06777246,76.38404657
+03/15/2020,Heena D/O Zamil Akhtar,1,Female,Recovered,Not Vaccinated,10.07807901,76.36128871
+03/15/2020,Jyoti,81,Female,Recovered,Not Vaccinated,10.05772959,76.37052006
+03/15/2020,Rajni,31,Female,Recovered,Vaccinated,10.05930954,76.32513622
+03/15/2020,Nidhi Kumari,15,Female,Recovered,Not Vaccinated,10.03517976,76.3635354
+03/15/2020,Seema @ Simran,83,Female,Recovered,Vaccinated,10.1185072,76.37179251
+03/15/2020,Usha Devi,67,Female,Recovered,Vaccinated,10.03934531,76.28173072
+03/15/2020,Kajal,46,Female,Recovered,Vaccinated,10.07759881,76.3301588
+03/15/2020,Mala Devi @ Nisha,82,Female,Recovered,Vaccinated,10.05538141,76.30906813
+03/15/2020,Khushbu,49,Female,Recovered,Vaccinated,10.06314146,76.36170758
+03/15/2020,Meena,17,Female,Recovered,Vaccinated,10.0094281,76.364226
+03/15/2020,Hamida Khatun,9,Female,Recovered,Not Vaccinated,10.07386677,76.4005356
+03/15/2020,Chanchal,44,Female,Recovered,Vaccinated,10.05494656,76.36430334
+03/15/2020,Aarti,43,Female,Recovered,Not Vaccinated,10.02104787,76.36968757
+03/15/2020,Kanchan,16,Female,Recovered,Not Vaccinated,10.00814741,76.35008025
+03/15/2020,Pooja,65,Female,Recovered,Vaccinated,10.10424707,76.38722833
+03/15/2020,Jyoti,25,Female,Recovered,Vaccinated,10.01840613,76.31559188
+03/15/2020,Priyaki Rav,78,Female,Recovered,Vaccinated,10.00045092,76.3051873
+03/15/2020,Ranu Tiwari,51,Female,Recovered,Not Vaccinated,10.02749899,76.33485211
+03/15/2020,Anita Devi,54,Female,Recovered,Vaccinated,10.07143466,76.31467555
+03/15/2020,Leelawati,51,Female,Recovered,Not Vaccinated,10.05024403,76.36773883
+03/15/2020,Sunita,77,Female,Recovered,Not Vaccinated,9.983246384,76.3339526
+03/15/2020,Manju Devi,22,Female,Recovered,Vaccinated,10.06596891,76.30245274
+03/15/2020,Kamla,70,Female,Recovered,Vaccinated,10.07477433,76.34334076
+03/15/2020,Arti,46,Female,Recovered,Not Vaccinated,10.09928705,76.36258226
+03/15/2020,Pooja,94,Female,Recovered,Vaccinated,10.05430904,76.35897541
+03/15/2020,Mustafa,6,Male,Recovered,Not Vaccinated,10.05599955,76.32143491
+03/15/2020,Mohd. Nafish,80,Male,Recovered,Not Vaccinated,9.98985234,76.3120473
+03/15/2020,Sajid,24,Male,Recovered,Not Vaccinated,10.08281402,76.32240869
+03/15/2020,Shahid,92,Male,Recovered,Not Vaccinated,10.04948122,76.34640858
+03/15/2020,Rahul,22,Male,Recovered,Not Vaccinated,10.03529117,76.29387077
+03/15/2020,Ramchander,79,Male,Recovered,Vaccinated,10.05810509,76.38605906
+03/15/2020,Ranjeet Singh,70,Male,Recovered,Not Vaccinated,10.0543373,76.35228668
+03/15/2020,Toshar Bhatiya,18,Male,Recovered,Vaccinated,10.04818215,76.27929711
+03/15/2020,Sakib,42,Male,Recovered,Not Vaccinated,10.02741146,76.3655376
+03/15/2020,Arun Kaushik,51,Male,Recovered,Not Vaccinated,10.0405821,76.31304631
+03/15/2020,Mukesh,75,Male,Recovered,Not Vaccinated,10.0006358,76.2961994
+03/15/2020,Jai Prakash Singh,77,Male,Recovered,Not Vaccinated,10.05849898,76.37072648
+03/15/2020,Hansraj,66,Male,Recovered,Not Vaccinated,10.03395496,76.30364442
+03/15/2020,Jagdish,25,Male,Recovered,Vaccinated,10.07075451,76.40431818
+03/15/2020,Rajkumar,21,Male,Recovered,Not Vaccinated,10.03974909,76.35216961
+03/15/2020,Usmaan,25,Male,Recovered,Vaccinated,10.04220477,76.39450085
+03/15/2020,Bhim Singh,50,Male,Recovered,Not Vaccinated,10.04567815,76.36152317
+03/15/2020,Pranav,80,Male,Recovered,Not Vaccinated,10.02785337,76.30412605
+03/15/2020,Meer Hashan,1,Male,Recovered,Not Vaccinated,10.05580689,76.35460575
+03/15/2020,Sagar,72,Male,Recovered,Vaccinated,10.05105826,76.35409024
+03/15/2020,Manav Shankar,16,Male,Recovered,Not Vaccinated,10.06075113,76.29874377
+03/15/2020,Raj Kumar,26,Male,Recovered,Not Vaccinated,10.03713942,76.36382772
+03/15/2020,Sohanpal,53,Male,Recovered,Vaccinated,10.08036737,76.41012375
+03/15/2020,Arun Kumar,35,Male,Recovered,Vaccinated,10.0535651,76.38237035
+03/15/2020,Anwar Hussain,22,Male,Recovered,Vaccinated,10.08522106,76.4043218
+03/15/2020,Rajan,32,Male,Recovered,Not Vaccinated,10.02088815,76.28530422
+03/15/2020,Sumit Chugh,11,Male,Recovered,Vaccinated,10.0546603,76.35813739
+03/15/2020,Dipak Garg,23,Male,Recovered,Vaccinated,10.00432956,76.31369178
+03/15/2020,Narender,31,Male,Recovered,Not Vaccinated,10.02780195,76.36904791
+03/15/2020,Pankaj,79,Male,Recovered,Not Vaccinated,10.0396067,76.3068825
+03/15/2020,Deepak,93,Male,Recovered,Not Vaccinated,10.04887614,76.37558956
+03/15/2020,Ajay Kumar,24,Male,Recovered,Vaccinated,10.05374954,76.36798226
+03/15/2020,Rishu,59,Male,Recovered,Vaccinated,10.11299568,76.37552631
+03/15/2020,Amina Singh,36,Male,Recovered,Not Vaccinated,10.0055098,76.30128067
+03/15/2020,Navdeep Rana @ Mani,81,Male,Recovered,Not Vaccinated,10.09991161,76.34471883
+03/15/2020,Bahadur Singh,22,Male,Recovered,Vaccinated,9.993688399,76.3037067
+03/15/2020,Mohit Kumar,22,Male,Recovered,Not Vaccinated,10.0355439,76.27933031
+03/15/2020,Rohit,69,Male,Recovered,Vaccinated,10.05690645,76.29472153
+03/15/2020,Layman Paswan,61,Male,Death,Vaccinated,10.06782042,76.32520877
+03/15/2020,Mohit,55,Male,Recovered,Not Vaccinated,10.03207431,76.3843344
+03/15/2020,Vikrant,65,Male,Death,Not Vaccinated,10.05894966,76.37862741
+03/15/2020,Akash @ Dabbu,62,Male,Recovered,Vaccinated,10.05197506,76.31011168
+03/15/2020,Mahendra,81,Male,Recovered,Vaccinated,10.08337371,76.35262521
+03/15/2020,Jasiram,69,Male,Recovered,Vaccinated,10.04920214,76.39756009
+03/15/2020,Mukesh Kumar Echra,42,Male,Recovered,Not Vaccinated,10.08636044,76.38207079
+03/15/2020,Amit,20,Male,Recovered,Vaccinated,10.08914627,76.35106526
+03/15/2020,Anil Kumar,6,Male,Death,Not Vaccinated,10.09887995,76.39268668
+03/15/2020,Arjun,22,Male,Recovered,Not Vaccinated,10.09931567,76.38497862
+03/16/2020,Deepak,26,Male,Recovered,Not Vaccinated,10.01445344,76.37000824
+03/16/2020,Sharwan Singh,20,Male,Recovered,Not Vaccinated,10.07258516,76.37028185
+03/16/2020,Nitin Kumar,13,Male,Recovered,Not Vaccinated,10.09534159,76.36994752
+03/16/2020,Kishore Yadav,86,Male,Death,Not Vaccinated,10.02064848,76.34267868
+03/16/2020,M Ithilesh,47,Male,Recovered,Vaccinated,10.06954879,76.3263749
+03/16/2020,Prince Shonak,22,Male,Recovered,Not Vaccinated,10.04222935,76.30280094
+03/16/2020,Ajay Manjhi,42,Male,Recovered,Vaccinated,10.07600174,76.39737127
+03/16/2020,Mohd. Arbaz,38,Male,Death,Not Vaccinated,10.05660599,76.35907417
+03/16/2020,Mohd Faiz @ Kallu,5,Male,Recovered,Vaccinated,10.06384395,76.39689671
+03/16/2020,Tofik Ahmed,30,Male,Recovered,Vaccinated,9.992584575,76.31205096
+03/16/2020,Mohd. Kalam,82,Male,Death,Not Vaccinated,10.01835047,76.31843278
+03/16/2020,Rakesh,26,Male,Death,Not Vaccinated,10.08512359,76.35565242
+03/16/2020,Karan Singh,86,Male,Death,Vaccinated,10.09536657,76.39580367
+03/16/2020,Sandeep Singh,94,Male,Death,Not Vaccinated,10.08161342,76.36735468
+03/16/2020,Sunny,36,Male,Death,Not Vaccinated,10.03163049,76.37990118
+03/16/2020,Vikram Singh Rawat,14,Male,Death,Not Vaccinated,10.07031612,76.3257396
+03/16/2020,Mahendra Salani,56,Male,Death,Vaccinated,10.05948917,76.36956259
+03/16/2020,Dinesh Mishra,55,Male,Death,Vaccinated,10.07681098,76.40932922
+03/16/2020,Biraj Pal,59,Male,Recovered,Vaccinated,10.0556998,76.36747612
+03/16/2020,Mukesh Singh,17,Male,Recovered,Not Vaccinated,10.11047614,76.36403721
+03/16/2020,Rahmat Ali,57,Male,Recovered,Vaccinated,10.09566636,76.39637954
+03/16/2020,Nepal,25,Male,Death,Vaccinated,10.07441363,76.39781113
+03/16/2020,Gopesh,26,Male,Death,Vaccinated,10.03899562,76.27864585
+03/16/2020,Sunil Kumar,48,Male,Death,Not Vaccinated,10.00213475,76.29926239
+03/16/2020,Rahmat Ali,81,Male,Death,Vaccinated,10.06907906,76.35392898
+03/16/2020,Surender @ Kala,48,Male,Death,Vaccinated,10.02546247,76.30945511
+03/16/2020,Bharat Dendor,16,Male,Recovered,Not Vaccinated,10.0430692,76.37155016
+03/16/2020,Sanjay Khemchandani,35,Male,Death,Not Vaccinated,10.07001048,76.35460563
+03/16/2020,Rakesh Khatik,64,Male,Death,Vaccinated,10.10138756,76.37155809
+03/16/2020,Rakesh Kumar,74,Male,Recovered,Not Vaccinated,10.0671934,76.34468281
+03/17/2020,Pavnesh,47,Male,Recovered,Not Vaccinated,10.0809144,76.3826907
+03/17/2020,Pardeep @Rahul,45,Male,Recovered,Not Vaccinated,10.03481082,76.3625008
+03/17/2020,Rizwan,71,Male,Recovered,Not Vaccinated,10.10707152,76.37227658
+03/17/2020,Sachin,23,Male,Death,Vaccinated,10.07867488,76.33673531
+03/17/2020,Devender Singh,15,Male,Recovered,Vaccinated,10.07569798,76.40768493
+03/17/2020,Narender,45,Male,Death,Vaccinated,10.0935598,76.33199037
+03/17/2020,Mantosh,64,Male,Recovered,Vaccinated,10.01574977,76.36489054
+03/17/2020,Shivam Koushik,53,Male,Recovered,Not Vaccinated,10.02983008,76.34682724
+03/17/2020,Aman Sharma,78,Male,Death,Vaccinated,10.01641055,76.33007855
+03/17/2020,Vijay Kumar,33,Male,Death,Not Vaccinated,10.02977258,76.35251
+03/17/2020,Chitu,49,Male,Recovered,Not Vaccinated,10.02965303,76.35591783
+03/17/2020,Satish Kumar Sharma,19,Male,Recovered,Vaccinated,10.02770032,76.30111331
+03/17/2020,Km Arti,31,Male,Death,Not Vaccinated,10.02548296,76.32803218
+03/17/2020,Shobhit Prsad,66,Male,Recovered,Vaccinated,10.10854584,76.3611166
+03/17/2020,Gordhanlal,82,Male,Death,Not Vaccinated,10.09114312,76.34445555
+03/17/2020,Nitin Kumar,14,Male,Recovered,Vaccinated,9.97223824,76.32122592
+03/17/2020,Bharat Singh,11,Male,Death,Not Vaccinated,10.07279164,76.36126836
+03/17/2020,Sangeeta,31,Male,Death,Not Vaccinated,10.07285673,76.35268748
+03/17/2020,Gordhan Gujar,8,Male,Death,Vaccinated,10.11361964,76.35715404
+03/17/2020,Jitu,89,Male,Recovered,Vaccinated,10.09516972,76.37286441
+03/17/2020,Jyoti,34,Male,Recovered,Vaccinated,10.07759974,76.31092004
+03/17/2020,Moh. Raees,3,Male,Recovered,Not Vaccinated,10.0811509,76.33291168
+03/17/2020,Chandu,17,Male,Death,Not Vaccinated,10.06850909,76.33608502
+03/17/2020,Suraj,88,Male,Recovered,Not Vaccinated,9.985861804,76.3207244
+03/17/2020,Amit Abrol,9,Male,Recovered,Vaccinated,10.06528392,76.38903725
+03/17/2020,Brijshwaer,25,Male,Recovered,Not Vaccinated,10.06227439,76.37221076
+03/17/2020,Kishan Singh Adhkari,57,Male,Death,Not Vaccinated,10.08657138,76.32215237
+03/17/2020,Atul,26,Male,Recovered,Not Vaccinated,10.08157634,76.38085775
+03/17/2020,Kunal Sharma,4,Male,Death,Not Vaccinated,10.10018106,76.36589136
+03/17/2020,Neeraj Kumar,73,Male,Death,Not Vaccinated,10.08035706,76.33461042
+03/17/2020,Kulbir Singh,82,Male,Recovered,Vaccinated,10.08215831,76.34237217
+03/17/2020,Vinay Kasyap,4,Male,Death,Not Vaccinated,10.08288553,76.3335721
+03/17/2020,Siddarth Chakrwarti,37,Male,Death,Not Vaccinated,10.09453565,76.36425573
+03/17/2020,Deepak,11,Male,Recovered,Vaccinated,10.0172674,76.30544762
+03/17/2020,Abhishek,88,Male,Recovered,Vaccinated,9.994953949,76.33654985
+03/18/2020,Anuj Kaushik,74,Male,Death,Not Vaccinated,10.08587503,76.39818869
+03/18/2020,Vinay Kumar,75,Male,Recovered,Vaccinated,10.11231184,76.35733123
+03/18/2020,Deepak,9,Male,Recovered,Not Vaccinated,10.08642546,76.36685891
+03/18/2020,Sachin Gayakwad,90,Male,Recovered,Not Vaccinated,9.965960861,76.30680892
+03/18/2020,Pintu,66,Male,Recovered,Not Vaccinated,10.05017873,76.31445307
+03/18/2020,Ram Parsad,68,Male,Death,Vaccinated,10.07701753,76.32350878
+03/18/2020,Kawa Lal,36,Male,Recovered,Vaccinated,10.06351509,76.29515841
+03/18/2020,Dhermendra,70,Male,Recovered,Vaccinated,10.07399408,76.30800513
+03/18/2020,Deepak,81,Male,Recovered,Vaccinated,10.04660243,76.35543184
+03/18/2020,Rajesh Kumar,46,Male,Recovered,Vaccinated,10.1092344,76.34601686
+03/18/2020,Mohd. Ilyaash,15,Male,Death,Vaccinated,10.07015424,76.39963715
+03/18/2020,Bijender,2,Male,Recovered,Not Vaccinated,10.05746303,76.38959527
+03/18/2020,Narender,78,Male,Death,Not Vaccinated,10.09219246,76.35673853
+03/18/2020,Aaftab (4 Months),52,Male,Recovered,Not Vaccinated,10.06891671,76.37345138
+03/18/2020,Raju Kumar,43,Male,Recovered,Not Vaccinated,10.08110898,76.36558865
+03/18/2020,Raja @ Vikash,44,Male,Death,Not Vaccinated,10.11276168,76.35609859
+03/18/2020,Madan,18,Male,Death,Vaccinated,9.973322896,76.31424165
+03/18/2020,Sukhbeer Singh,9,Male,Recovered,Vaccinated,10.00068697,76.29078893
+03/18/2020,Shobhit Kumar,73,Male,Death,Vaccinated,10.06937585,76.42131925
+03/18/2020,Vijay,8,Male,Recovered,Not Vaccinated,10.102034,76.37707094
+03/18/2020,Ramu Yadav,20,Male,Recovered,Vaccinated,10.04466475,76.33444469
+03/18/2020,Shahwaj,60,Male,Recovered,Not Vaccinated,10.06158568,76.34971182
+03/18/2020,Dharm Singh Thakur,94,Male,Recovered,Vaccinated,10.0853138,76.35296555
+03/18/2020,Joginder,19,Male,Recovered,Not Vaccinated,10.07983272,76.40995459
+03/18/2020,Vinod,36,Male,Death,Vaccinated,10.05092536,76.37647621
+03/18/2020,Amit Kumar Nagpal,82,Male,Recovered,Not Vaccinated,10.06196746,76.41026044
+03/18/2020,Vedprakash,67,Male,Death,Vaccinated,10.08715266,76.39108858
+03/18/2020,Sunil Kumar,32,Male,Death,Vaccinated,10.06515295,76.38073099
+03/18/2020,Ajeem,81,Male,Recovered,Vaccinated,10.03733295,76.30373977
+03/18/2020,Ranjan,41,Male,Death,Not Vaccinated,10.03560258,76.30488097
+03/18/2020,Mohd.Afzal,51,Male,Recovered,Vaccinated,9.975103699,76.3225655
+03/18/2020,Krishan,43,Male,Recovered,Not Vaccinated,10.02668119,76.32178155
+03/18/2020,Harkesh Kumar,69,Male,Recovered,Vaccinated,9.990567018,76.33430216
+03/18/2020,Himanshu,60,Male,Recovered,Vaccinated,10.06765146,76.41779767
+03/18/2020,Anand Goswami,20,Male,Death,Not Vaccinated,10.00935695,76.29865261
+03/18/2020,Vickky,17,Male,Recovered,Vaccinated,10.0727375,76.36859852
+03/18/2020,Dharmender Kumar Tiwari,90,Male,Death,Vaccinated,10.04115246,76.31857426
+03/18/2020,Raju,4,Male,Death,Not Vaccinated,9.998084933,76.33544274
+03/18/2020,Chander Perkash,79,Male,Recovered,Vaccinated,10.00882113,76.32992966
+03/18/2020,Dinesh Kumar Dogra,25,Male,Death,Vaccinated,10.01318724,76.34060203
+03/18/2020,Bhagwan Singh,80,Male,Death,Not Vaccinated,10.09501251,76.37386815
+03/18/2020,Manoish,76,Male,Death,Not Vaccinated,10.11093509,76.35881108
+03/18/2020,Jite,23,Male,Recovered,Not Vaccinated,10.00637099,76.3120101
+03/18/2020,Yash,77,Male,Death,Not Vaccinated,9.982075014,76.32994487
+03/18/2020,Binani,75,Male,Death,Vaccinated,10.00027671,76.30796053
+03/19/2020,Nand Lal,40,Male,Recovered,Vaccinated,10.03229743,76.30469725
+03/19/2020,Mannu,85,Male,Death,Vaccinated,10.08687972,76.38052726
+03/19/2020,Vinod,94,Male,Death,Not Vaccinated,10.07979576,76.35329677
+03/19/2020,Lokesh,33,Male,Recovered,Not Vaccinated,10.00588996,76.29214521
+03/19/2020,Balram Singh,10,Male,Recovered,Not Vaccinated,10.05008451,76.38705022
+03/19/2020,Mohd Sabir Anjar,50,Male,Recovered,Not Vaccinated,9.971359329,76.31306112
+03/19/2020,Aasif Ali,26,Male,Death,Not Vaccinated,10.06799073,76.40392904
+03/19/2020,Raja Ram,63,Male,Death,Vaccinated,10.05168419,76.30782299
+03/19/2020,Aman Saroj,86,Male,Death,Vaccinated,9.965330283,76.30839865
+03/19/2020,Ram Ji,62,Male,Death,Vaccinated,9.974695595,76.31340791
+03/19/2020,Partyush Gupta,2,Male,Death,Vaccinated,9.974868626,76.32525787
+03/19/2020,Sh. Veer Singh,73,Male,Death,Not Vaccinated,10.07804293,76.35571971
+03/19/2020,Vishal,81,Male,Recovered,Vaccinated,9.995450069,76.31233013
+03/19/2020,Virender,36,Male,Recovered,Vaccinated,10.0726984,76.33622816
+03/19/2020,Kapil Jakhad,65,Male,Death,Vaccinated,10.06261696,76.35735913
+03/19/2020,Mohd. Irfan,22,Male,Recovered,Not Vaccinated,10.02046398,76.28520184
+03/19/2020,Sitaram,19,Male,Recovered,Vaccinated,10.01606318,76.35594646
+03/19/2020,Keshav Raj,56,Male,Death,Not Vaccinated,10.11514056,76.36601477
+03/19/2020,Kapil Jhakhar,91,Male,Recovered,Not Vaccinated,10.06082035,76.35698466
+03/19/2020,Nakul Gehlot,64,Male,Death,Not Vaccinated,9.990566335,76.32720532
+03/19/2020,Ashok Kumar,64,Male,Death,Vaccinated,10.05550172,76.33278515
+03/19/2020,Shiv Kumar,3,Male,Death,Not Vaccinated,10.04066183,76.28303971
+03/19/2020,Narender,12,Male,Recovered,Not Vaccinated,10.04807658,76.29361296
+03/19/2020,Lakshman Ram,18,Male,Death,Not Vaccinated,9.986771746,76.30587947
+03/19/2020,Deva Ram,55,Male,Death,Not Vaccinated,10.06479307,76.36043938
+03/20/2020,Satish Kumar Aggarwal,81,Male,Recovered,Vaccinated,10.01393379,76.34500942
+03/20/2020,Karan,16,Male,Recovered,Vaccinated,10.05208069,76.29024006
+03/20/2020,Sahun,34,Male,Recovered,Vaccinated,10.07804833,76.38673983
+03/20/2020,Sakir,73,Male,Recovered,Vaccinated,10.0346162,76.30848025
+03/20/2020,Jitender Sehrawat,73,Male,Recovered,Not Vaccinated,10.0763585,76.34853729
+03/20/2020,Sagar Choudhary @ Chunnu,35,Male,Death,Vaccinated,10.02918288,76.34536408
+03/20/2020,Arunkumar Toshniwal,19,Male,Recovered,Not Vaccinated,10.01404816,76.34148087
+03/20/2020,Krishan,79,Male,Recovered,Not Vaccinated,10.01979466,76.37474652
+03/20/2020,Pardeep,66,Male,Recovered,Not Vaccinated,10.03106965,76.3334869
+03/20/2020,Sandeep Kumar,71,Male,Death,Not Vaccinated,10.0307105,76.34077125
+03/20/2020,Shadab,70,Male,Death,Vaccinated,10.06164719,76.35286522
+03/20/2020,Veeru,8,Male,Death,Vaccinated,10.08740217,76.40157114
+03/20/2020,Pankaj Singh Negi,17,Male,Recovered,Not Vaccinated,10.00296452,76.35553653
+03/20/2020,Mohammad Gazi Khan,35,Male,Death,Not Vaccinated,9.988826969,76.29765466
+03/20/2020,Paramjeet Kour,23,Male,Recovered,Not Vaccinated,10.03313636,76.35765387
+03/20/2020,Rajneesh Bairwa,6,Male,Recovered,Vaccinated,10.02647106,76.37462273
+03/20/2020,Rajdut,31,Male,Death,Vaccinated,10.06567236,76.35532908
+03/20/2020,Satish Kumar,19,Male,Recovered,Not Vaccinated,10.03795765,76.35569716
+03/20/2020,Suraj Bhan,36,Male,Recovered,Not Vaccinated,10.04208951,76.29778737
+03/20/2020,Rajesh,12,Male,Recovered,Not Vaccinated,10.06998293,76.3553943
+03/20/2020,Shripal,35,Male,Death,Vaccinated,10.03845382,76.32434431
+03/20/2020,Kailash Singh Adhikari,34,Male,Death,Vaccinated,10.01260578,76.28468646
+03/20/2020,Vinay,93,Male,Recovered,Not Vaccinated,10.10034996,76.36419076
+03/20/2020,Kumar Anand,72,Male,Death,Vaccinated,10.04981771,76.3909229
+03/20/2020,Kailash,30,Male,Death,Vaccinated,9.973087501,76.31827196
+03/20/2020,Harsh,51,Male,Death,Vaccinated,10.04898058,76.30002764
+03/20/2020,Abishak Soni,58,Male,Recovered,Vaccinated,10.01074165,76.33177064
+03/20/2020,Sunder Lal Mongia,22,Male,Recovered,Not Vaccinated,10.03811843,76.29755226
+03/20/2020,Dinesh Mongia,79,Male,Death,Vaccinated,10.0179219,76.35482559
+03/20/2020,Lakhan,78,Male,Death,Not Vaccinated,10.03566038,76.36477245
+03/20/2020,Prasant Kumar,80,Male,Death,Vaccinated,10.03669604,76.36923936
+03/20/2020,Rajan,31,Male,Recovered,Vaccinated,10.01069172,76.31704485
+03/20/2020,Anuj Kumar,31,Male,Death,Not Vaccinated,10.01782295,76.30446513
+03/20/2020,Roji,43,Male,Death,Not Vaccinated,10.11112902,76.3740765
+03/20/2020,Jwala,26,Male,Death,Vaccinated,10.05806573,76.41399808
+03/21/2020,Sagar,48,Male,Death,Vaccinated,10.03593233,76.29607986
+03/21/2020,Ganga Bishan Bairwa,32,Male,Recovered,Not Vaccinated,10.04715909,76.3879972
+03/21/2020,Anuj,67,Male,Recovered,Vaccinated,10.04753644,76.34282916
+03/21/2020,Oli Ahmad,72,Male,Recovered,Not Vaccinated,10.01967538,76.37503323
+03/21/2020,Kamlesh,18,Male,Death,Vaccinated,10.03897749,76.32778375
+03/21/2020,Sonu Goyal,77,Male,Recovered,Vaccinated,10.0819174,76.38734994
+03/21/2020,Sandeep Rawat,77,Male,Death,Not Vaccinated,10.08330946,76.39378213
+03/21/2020,Ram Kishore,51,Male,Recovered,Not Vaccinated,10.07378042,76.38923263
+03/21/2020,Afshar,70,Male,Recovered,Not Vaccinated,10.04217882,76.37919136
+03/21/2020,Rahul,24,Male,Recovered,Not Vaccinated,10.00655148,76.35151786
+03/21/2020,Tripurari,69,Male,Death,Not Vaccinated,10.10149851,76.35425555
+03/21/2020,Tarun Vadhuva,81,Male,Death,Vaccinated,10.03558151,76.36142966
+03/21/2020,Rajveer Singh,27,Male,Recovered,Not Vaccinated,10.09577412,76.37113508
+03/21/2020,Abul Kesh Ansari,68,Male,Recovered,Vaccinated,10.0891626,76.34872199
+03/21/2020,Mohd Ahshan,65,Male,Recovered,Not Vaccinated,10.011823,76.32547014
+03/21/2020,Md. Sufiyan,84,Male,Death,Not Vaccinated,10.01737181,76.3247048
+03/21/2020,Imran,4,Male,Recovered,Not Vaccinated,10.00146188,76.28743501
+03/21/2020,Rolly Kumar,75,Male,Recovered,Vaccinated,10.04944214,76.29779829
+03/21/2020,Prashant,54,Male,Death,Vaccinated,10.0383472,76.2937473
+03/21/2020,Makan Singh,56,Male,Death,Vaccinated,9.989694559,76.33677884
+03/21/2020,Baijnath Thakur,25,Male,Recovered,Vaccinated,10.06031068,76.3031071
+03/21/2020,`Bishan Bangari,64,Male,Recovered,Not Vaccinated,9.990501534,76.29264362
+03/21/2020,Faizur Rehman,54,Male,Recovered,Vaccinated,9.994500424,76.3209995
+03/21/2020,Mr. Devindra Singh,2,Male,Death,Not Vaccinated,10.03370069,76.34099272
+03/21/2020,Amit Kumar,3,Male,Death,Vaccinated,10.02143601,76.34936685
+03/21/2020,Kayum Ali,38,Male,Death,Not Vaccinated,10.01326545,76.32022022
+03/21/2020,Giriraj,25,Male,Death,Vaccinated,10.01270484,76.29974764
+03/21/2020,Sanjay,3,Male,Death,Not Vaccinated,10.00173319,76.29608898
+03/21/2020,Hemant Pal,87,Male,Recovered,Vaccinated,10.0578434,76.30914458
+03/21/2020,Dinesh Kumar,1,Male,Recovered,Not Vaccinated,10.12140309,76.3638197
+03/21/2020,Narayan Lal,52,Male,Death,Vaccinated,10.08243492,76.3651856
+03/21/2020,Ajay Kumarn Mishra,49,Male,Death,Not Vaccinated,10.02822129,76.30161695
+03/21/2020,Vinit,66,Male,Recovered,Not Vaccinated,10.06094305,76.40830546
+03/21/2020,Balram,18,Male,Recovered,Not Vaccinated,10.09330455,76.34227373
+03/21/2020,Ajeet Singh,24,Male,Death,Vaccinated,9.999529045,76.32728168
+03/22/2020,Sunil,25,Male,Death,Not Vaccinated,9.987796854,76.31669099
+03/22/2020,Kailash Chand,61,Male,Death,Vaccinated,10.04897918,76.31212984
+03/22/2020,Guddu Singh,49,Male,Recovered,Not Vaccinated,10.03582161,76.3582567
+03/22/2020,Dhanraj Prajapat,61,Male,Death,Not Vaccinated,10.05377754,76.30164333
+03/22/2020,Choga Lal,34,Male,Recovered,Not Vaccinated,10.00999318,76.29783469
+03/22/2020,Beeram,38,Male,Death,Vaccinated,10.08123049,76.38335917
+03/22/2020,Kishan Singh,95,Male,Death,Vaccinated,10.04668038,76.35542234
+03/22/2020,Modh Yakum,72,Male,Recovered,Not Vaccinated,10.06357959,76.39399205
+03/22/2020,Mohd. Hammad Ashraf,21,Male,Recovered,Not Vaccinated,10.05061158,76.30622582
+03/22/2020,Rajesh,86,Male,Death,Vaccinated,10.05789278,76.41454709
+03/22/2020,Santram,91,Male,Death,Vaccinated,10.0509083,76.39397525
+03/22/2020,Naveen,41,Male,Recovered,Vaccinated,10.07349493,76.32684257
+03/22/2020,Vimal,59,Male,Death,Not Vaccinated,10.00238022,76.3566067
+03/22/2020,Varun Mandal,65,Male,Recovered,Not Vaccinated,10.03441759,76.31873901
+03/22/2020,Lateef Khan,69,Male,Death,Not Vaccinated,10.03536259,76.28933525
+03/22/2020,Ajay Mital,38,Male,Death,Vaccinated,10.04490703,76.31151553
+03/22/2020,Bharat@Dholu,36,Male,Death,Not Vaccinated,10.02853576,76.29672773
+03/22/2020,Mahendra Prajapat,91,Male,Recovered,Vaccinated,10.03196098,76.36371618
+03/22/2020,Dharmendra Ram,67,Male,Recovered,Not Vaccinated,10.03112132,76.28921882
+03/22/2020,Baleshwar Tiwari,73,Male,Death,Not Vaccinated,10.04347025,76.36259841
+03/22/2020,Vinay Kuma R,14,Male,Death,Vaccinated,10.01536609,76.3449325
+03/22/2020,Saurabh Kumar,54,Male,Recovered,Vaccinated,10.06940865,76.38582473
+03/22/2020,Ajay,78,Male,Recovered,Not Vaccinated,10.0611399,76.40870708
+03/22/2020,Khemchand,37,Male,Death,Vaccinated,10.08016775,76.35708793
+03/22/2020,Sher Singh,7,Male,Recovered,Not Vaccinated,9.971274591,76.3083635
+03/22/2020,Manoj,45,Male,Death,Not Vaccinated,10.07735507,76.31430714
+03/22/2020,Sumit Kumar,87,Male,Recovered,Not Vaccinated,10.07554489,76.40366014
+03/22/2020,Mohd. Imtiyaz,26,Male,Death,Vaccinated,10.02464554,76.36095135
+03/22/2020,Akhil Mehta,67,Male,Death,Vaccinated,10.01529214,76.30234108
+03/22/2020,Piyush @ Kalu,74,Male,Death,Not Vaccinated,10.0328113,76.37224754
+03/22/2020,Parveen Kumar,19,Male,Recovered,Vaccinated,10.07602794,76.35192727
+03/22/2020,Umesh Kumar,59,Male,Recovered,Not Vaccinated,10.00124763,76.30386062
+03/22/2020,Akash Hooda @ Nandi,37,Male,Recovered,Not Vaccinated,10.09243991,76.365325
+03/22/2020,Ajeet,58,Male,Recovered,Vaccinated,10.01251694,76.34716952
+03/22/2020,Rajender Joshi,18,Male,Death,Not Vaccinated,10.04998785,76.36469123
+03/23/2020,Kamruddin,72,Male,Recovered,Not Vaccinated,10.00970335,76.32211085
+03/23/2020,Sandeep,21,Male,Death,Vaccinated,10.09539119,76.38796628
+03/23/2020,Arvind Batra @ Parveen,14,Male,Death,Vaccinated,10.03822628,76.38538429
+03/23/2020,Nikhil Chopra,79,Male,Recovered,Vaccinated,10.06245417,76.31096721
+03/23/2020,Sher Mahomad,46,Male,Recovered,Not Vaccinated,10.09225905,76.40235676
+03/23/2020,Arvind Mishra,87,Male,Recovered,Not Vaccinated,10.06005235,76.41919329
+03/23/2020,Ravi Kumar,77,Male,Death,Vaccinated,10.06994079,76.39397948
+03/23/2020,Danish,62,Male,Recovered,Not Vaccinated,10.03612372,76.311019
+03/23/2020,Jitender Kumar,80,Male,Death,Not Vaccinated,10.08655724,76.34763662
+03/23/2020,Mr. Shaitan,88,Male,Recovered,Vaccinated,10.05370615,76.39815453
+03/23/2020,Gourav @ Goldi,68,Male,Death,Vaccinated,10.03684622,76.35972636
+03/23/2020,Ashwani Kumar,89,Male,Death,Vaccinated,10.05430018,76.34913682
+03/23/2020,Rajveer Singh,23,Male,Death,Not Vaccinated,10.07142245,76.40932738
+03/23/2020,Kundin,82,Male,Recovered,Vaccinated,10.0146581,76.31884659
+03/23/2020,Rajvir,39,Male,Recovered,Vaccinated,10.0074997,76.36118323
+03/23/2020,Harpal Singh,82,Male,Recovered,Not Vaccinated,10.00384747,76.35041253
+03/23/2020,Galu @ Biraj,41,Male,Recovered,Vaccinated,10.0491374,76.39021223
+03/23/2020,Balak Singh,53,Male,Death,Not Vaccinated,10.05603412,76.41187691
+03/23/2020,Pawan Kumar,70,Male,Death,Not Vaccinated,10.06322895,76.37423848
+03/23/2020,Iqbal,45,Male,Death,Vaccinated,10.06598815,76.29802697
+03/23/2020,Mastan,26,Male,Death,Not Vaccinated,10.05742082,76.31309821
+03/23/2020,Manish,15,Male,Death,Not Vaccinated,10.06589162,76.42655188
+03/23/2020,Hajrat,57,Male,Death,Not Vaccinated,9.988428735,76.33079446
+03/23/2020,Madho,2,Male,Death,Not Vaccinated,10.00972426,76.36258791
+03/23/2020,Vivek Paswan,81,Male,Death,Not Vaccinated,10.04640574,76.2934568
+03/23/2020,Balbir Gela,90,Male,Recovered,Vaccinated,10.08064168,76.38355335
+03/23/2020,Rohit Arora,39,Male,Recovered,Vaccinated,10.08361152,76.3919328
+03/23/2020,Harshit Jain,21,Male,Recovered,Not Vaccinated,9.99416577,76.29487207
+03/23/2020,Jiya Lal,56,Male,Death,Not Vaccinated,10.10486813,76.3556507
+03/23/2020,Gopal Lal,64,Male,Death,Not Vaccinated,10.05559752,76.37722436
+03/23/2020,Vivek,60,Male,Recovered,Not Vaccinated,9.988009095,76.3408599
+03/23/2020,Vijender Singh Rawat,23,Male,Recovered,Vaccinated,10.03832501,76.38264912
+03/23/2020,Jeevan Suyal,61,Male,Death,Vaccinated,10.02321319,76.35875331
+03/23/2020,Naresh Chaudhary,64,Male,Recovered,Not Vaccinated,10.03514795,76.38160014
+03/23/2020,Vikky,87,Male,Death,Not Vaccinated,10.04886691,76.33585316
+03/23/2020,Abdul Ahad,84,Male,Death,Not Vaccinated,10.10595496,76.37870956
+03/23/2020,Mohit Kumar,33,Male,Recovered,Vaccinated,10.04471649,76.40185441
+03/23/2020,Satbir Singh,70,Male,Death,Vaccinated,10.08650081,76.36751953
+03/23/2020,Sudhir,13,Male,Death,Not Vaccinated,10.04017897,76.31082955
+03/23/2020,Hemant @ Chhotu,9,Male,Death,Not Vaccinated,10.1163258,76.36179125
+03/23/2020,Laxman Mehtu,53,Male,Recovered,Vaccinated,10.07776485,76.38945415
+03/23/2020,Kanahiya Soni,47,Male,Death,Vaccinated,10.10621247,76.34634246
+03/23/2020,Jaspal Singh,38,Male,Recovered,Not Vaccinated,10.02793377,76.35467732
+03/23/2020,Jeetu Gautam,73,Male,Recovered,Vaccinated,10.03084969,76.31458828
+03/23/2020,Shoukat,31,Male,Death,Vaccinated,10.00826196,76.28691509
+03/23/2020,Laddha Ram,40,Male,Death,Not Vaccinated,10.00185977,76.33689517
+03/23/2020,Rajkiran,86,Male,Recovered,Not Vaccinated,9.993780725,76.34245743
+03/23/2020,Amar Singh,55,Male,Recovered,Not Vaccinated,10.08533053,76.40047169
+03/23/2020,Sahjad,3,Male,Recovered,Not Vaccinated,10.06314329,76.37282675
+03/23/2020,Visan Chetri,87,Male,Recovered,Vaccinated,10.0612049,76.38341717
+03/23/2020,Sandip,67,Male,Recovered,Vaccinated,10.06604183,76.3160867
+03/23/2020,Kashiv,22,Male,Death,Not Vaccinated,9.979816049,76.32578152
+03/23/2020,Anil @ Sonu,49,Male,Recovered,Not Vaccinated,10.04303918,76.35513122
+03/23/2020,Shri Kistur Chand Jat,28,Male,Death,Not Vaccinated,10.03622508,76.37335389
+03/23/2020,Hari Singh,61,Male,Recovered,Vaccinated,10.05799565,76.32142941
+03/24/2020,Yogesh Sharma,10,Male,Recovered,Not Vaccinated,10.05644303,76.32776141
+03/24/2020,Chandu,27,Male,Recovered,Not Vaccinated,10.11129575,76.34840493
+03/24/2020,Deepak Sewani,1,Male,Death,Not Vaccinated,10.0687925,76.40768453
+03/24/2020,Sunaina,5,Male,Death,Not Vaccinated,10.04059093,76.29424057
+03/24/2020,Bijander @ Binder,63,Male,Recovered,Vaccinated,10.0270597,76.3029542
+03/24/2020,Mukesh Gurjar,34,Male,Death,Vaccinated,10.05171085,76.34368936
+03/24/2020,Dinesh,75,Male,Death,Not Vaccinated,10.00617994,76.33400312
+03/24/2020,Mahendra,43,Male,Recovered,Vaccinated,10.0074476,76.35250987
+03/24/2020,Mahesh,31,Male,Recovered,Vaccinated,10.03952579,76.39676105
+03/24/2020,Shiv Kumar,87,Male,Death,Vaccinated,10.05653132,76.34865926
+03/24/2020,Hitesh Kumar,25,Male,Death,Vaccinated,10.05485044,76.34970566
+03/24/2020,Shabir,9,Male,Recovered,Not Vaccinated,10.01936991,76.34537833
+03/24/2020,Bhagwat Laxman Rany,87,Male,Recovered,Not Vaccinated,10.00596027,76.31066489
+03/24/2020,Rohan Kumar,30,Male,Recovered,Vaccinated,9.992691705,76.33132852
+03/24/2020,Anil Singh Maharwar,22,Male,Recovered,Not Vaccinated,10.01947101,76.28625598
+03/24/2020,Kuldeep Gupta @ Shivam,9,Male,Recovered,Vaccinated,10.00090785,76.33595661
+03/24/2020,Vinod Verma,81,Male,Death,Vaccinated,10.07127167,76.38985799
+03/24/2020,Ramesh Kumar,35,Male,Death,Not Vaccinated,10.08218855,76.31946193
+03/24/2020,Amarjit,19,Male,Death,Not Vaccinated,10.08055839,76.33762313
+03/24/2020,Md Rafi,88,Male,Recovered,Vaccinated,10.02667262,76.29694497
+03/25/2020,Pradeep @ Chagul,36,Male,Death,Vaccinated,10.09976175,76.36765036
+03/25/2020,Hem Chandra,67,Male,Recovered,Vaccinated,10.09722489,76.36454715
+03/25/2020,Abhisek Sharma,14,Male,Death,Not Vaccinated,10.02947866,76.34100767
+03/25/2020,Rajeev Kumar,21,Male,Recovered,Vaccinated,10.04445592,76.28745948
+03/25/2020,Bhuvneshwar @ Munna,10,Male,Death,Not Vaccinated,10.11531765,76.37499828
+03/25/2020,Pramod,87,Male,Recovered,Vaccinated,9.993879986,76.34614552
+03/25/2020,Balram,4,Male,Death,Not Vaccinated,10.0645787,76.29712183
+03/25/2020,Sanjeev,94,Male,Recovered,Not Vaccinated,10.032195,76.37733092
+03/25/2020,Nandita,1,Male,Recovered,Not Vaccinated,10.04161676,76.33852216
+03/25/2020,Ravikant,94,Male,Recovered,Not Vaccinated,10.02718694,76.29480345
+03/25/2020,Mohd Shubhan,50,Male,Death,Not Vaccinated,10.04367646,76.30707584
+03/25/2020,Koushik Dutta,21,Male,Recovered,Vaccinated,10.02587761,76.33517577
+03/25/2020,Raju,90,Male,Death,Vaccinated,10.0945634,76.38106726
