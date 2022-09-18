@@ -15,16 +15,16 @@ else:
 if(list1 == [] and list2 == []):
     list1.append(calculate_recovery)
     list2.append(calculate_death)
-    pickle.dump(list1,open("list1.pkl","ab"))
-    pickle.dump(list2,open("list2.pkl","ab"))
+    pickle.dump(list1,open("list1.pkl","wb"))
+    pickle.dump(list2,open("list2.pkl","wb"))
  
 else:
     list1 = pickle.load(open("list1.pkl","rb"))
     list2 = pickle.load(open("list2.pkl","rb"))
     list1.append(calculate_recovery)
     list2.append(calculate_death)
-    pickle.dump(list1,open("list1.pkl","ab"))
-    pickle.dump(list2,open("list2.pkl","ab"))
+    pickle.dump(list1,open("list1.pkl","wb"))
+    pickle.dump(list2,open("list2.pkl","wb"))
     
 print("Recovery percentage : ",list1)
 print("Death percentage : ",list2)

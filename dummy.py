@@ -18,6 +18,7 @@ last_ten = dict(list(recovery_date_data.items())[-10:])
 #print(last_ten)
 value1 = list(first_ten.values())
 value2 = list(last_ten.values())
+print(value1,value2)
 recover= 0
 death = 0
 recover_value = 0
